@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45a768e-e9e8-466d-b96f-8bf44f2c00c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj728SelfDividingNumbers/SelfDividingNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj507PerfectNumber/PerfectNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -85,14 +85,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelfDividingNumbers.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SelfDividingNumbers.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj728SelfDividingNumbers/SelfDividingNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="8" selection-start="805" selection-end="1804" vertical-scroll-proportion="0.25" vertical-offset="210" max-vertical-offset="960">
+            <state line="42" column="46" selection-start="1400" selection-end="1400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#907#916#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectNumber.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj507PerfectNumber/PerfectNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="34" selection-start="560" selection-end="560" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="720">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/oj760FindAnagramMappings/FindAnagramMappings.java" />
         <option value="$PROJECT_DIR$/src/oj747LargestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java" />
         <option value="$PROJECT_DIR$/src/oj728SelfDividingNumbers/SelfDividingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/oj507PerfectNumber/PerfectNumber.java" />
       </list>
     </option>
   </component>
@@ -217,6 +227,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="oj728SelfDividingNumbers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oj507PerfectNumber" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -409,7 +437,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1400" height="817" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -426,7 +454,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -511,11 +539,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj728SelfDividingNumbers/SelfDividingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="8" selection-start="805" selection-end="1804" vertical-scroll-proportion="0.25" vertical-offset="210" max-vertical-offset="960">
+        <state line="42" column="46" selection-start="1400" selection-end="1400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#907#916#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj507PerfectNumber/PerfectNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="34" selection-start="560" selection-end="560" vertical-scroll-proportion="0.33333334" vertical-offset="0" max-vertical-offset="720">
+          <folding />
         </state>
       </provider>
     </entry>
