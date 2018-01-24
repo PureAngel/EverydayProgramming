@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45a768e-e9e8-466d-b96f-8bf44f2c00c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TrimaBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj623AddOneRowtoTree/AddOneRowtoTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj623AddOneRowtoTree/TreeNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -68,28 +68,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BasicCalculator2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj227BasicCalculator2/BasicCalculator2.java">
+      <file leaf-file-name="AddOneRowtoTree.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/AddOneRowtoTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="74" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+            <state line="82" column="5" selection-start="1315" selection-end="2123" vertical-scroll-proportion="0.8727016" vertical-offset="613" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TrimaBinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TrimaBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="45" selection-start="760" selection-end="760" vertical-scroll-proportion="0.6181047" vertical-offset="253" max-vertical-offset="960">
+            <state line="2" column="3" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -116,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/oj227BasicCalculator2/BasicCalculator2.java" />
         <option value="$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TrimaBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/oj623AddOneRowtoTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj623AddOneRowtoTree/AddOneRowtoTree.java" />
       </list>
     </option>
   </component>
@@ -151,6 +144,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,6 +249,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="oj623AddOneRowtoTree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="oj507PerfectNumber" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -297,7 +309,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -411,6 +422,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -436,19 +460,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -555,8 +566,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -580,6 +591,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/AddOneRowtoTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="12" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj227BasicCalculator2/BasicCalculator2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="74" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
@@ -672,23 +697,37 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.8037975" vertical-offset="381" max-vertical-offset="960" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj227BasicCalculator2/BasicCalculator2.java">
+    <entry file="file://$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TrimaBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="74" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+        <state line="38" column="14" selection-start="503" selection-end="503" vertical-scroll-proportion="0.4483734" vertical-offset="253" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="9" column="4" selection-start="162" selection-end="162" vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj669TrimaBinarySearchTree/TrimaBinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/oj227BasicCalculator2/BasicCalculator2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="45" selection-start="760" selection-end="760" vertical-scroll-proportion="0.6181047" vertical-offset="253" max-vertical-offset="960">
+        <state line="31" column="74" selection-start="944" selection-end="944" vertical-scroll-proportion="0.65770864" vertical-offset="0" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="3" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/AddOneRowtoTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="5" selection-start="1315" selection-end="2123" vertical-scroll-proportion="0.8727016" vertical-offset="613" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
