@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45a768e-e9e8-466d-b96f-8bf44f2c00c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj450DeleteNodeinaBST/TreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -77,10 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeleteNodeinaBST.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DeleteNodeinaBST.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.78783596" vertical-offset="388" max-vertical-offset="1110">
+            <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToeplitzMatrix.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.8486563" vertical-offset="0" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
@@ -113,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/oj501FindModeinBinarySearchTree/FindModeinBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/oj450DeleteNodeinaBST/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java" />
+        <option value="$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java" />
       </list>
     </option>
   </component>
@@ -164,6 +173,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oj766ToeplitzMatrix" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -649,8 +676,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="540">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1131#1140#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1131#1140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,8 +834,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="27" selection-start="1586" selection-end="1586" vertical-scroll-proportion="0.0" vertical-offset="103" max-vertical-offset="1200">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1131#1140#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1131#1140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -822,7 +849,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.78783596" vertical-offset="388" max-vertical-offset="1110">
+        <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.8486563" vertical-offset="0" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
