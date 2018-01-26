@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45a768e-e9e8-466d-b96f-8bf44f2c00c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj148SortList/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj148SortList/SortList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj147InsertionSortList/InsertionSortList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj147InsertionSortList/ListNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -68,19 +68,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ListNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj148SortList/ListNode.java">
+      <file leaf-file-name="SortList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj148SortList/SortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="27" column="29" selection-start="577" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortList.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj148SortList/SortList.java">
+      <file leaf-file-name="InsertionSortList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj147InsertionSortList/InsertionSortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="29" selection-start="577" selection-end="675" vertical-scroll-proportion="0.5208333" vertical-offset="30" max-vertical-offset="945">
+            <state line="5" column="71" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0625" vertical-offset="30" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -116,6 +116,8 @@
         <option value="$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java" />
         <option value="$PROJECT_DIR$/src/oj148SortList/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj148SortList/SortList.java" />
+        <option value="$PROJECT_DIR$/src/oj147InsertionSortList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/oj147InsertionSortList/InsertionSortList.java" />
       </list>
     </option>
   </component>
@@ -382,6 +384,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="oj148SortList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oj147InsertionSortList" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -901,9 +921,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj147InsertionSortList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.16666667" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj148SortList/SortList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="29" selection-start="577" selection-end="675" vertical-scroll-proportion="0.5208333" vertical-offset="30" max-vertical-offset="945">
+        <state line="27" column="29" selection-start="577" selection-end="675" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj147InsertionSortList/InsertionSortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="71" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0625" vertical-offset="30" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
