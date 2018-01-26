@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d45a768e-e9e8-466d-b96f-8bf44f2c00c4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj148SortList/ListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj148SortList/SortList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -67,28 +68,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/TreeNode.java">
+      <file leaf-file-name="ListNode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj148SortList/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="8" column="4" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeleteNodeinaBST.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java">
+      <file leaf-file-name="SortList.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj148SortList/SortList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToeplitzMatrix.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.8486563" vertical-offset="0" max-vertical-offset="780">
+            <state line="27" column="29" selection-start="577" selection-end="675" vertical-scroll-proportion="0.5208333" vertical-offset="30" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
@@ -122,6 +114,8 @@
         <option value="$PROJECT_DIR$/src/oj450DeleteNodeinaBST/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java" />
         <option value="$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java" />
+        <option value="$PROJECT_DIR$/src/oj148SortList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/oj148SortList/SortList.java" />
       </list>
     </option>
   </component>
@@ -157,7 +151,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -374,8 +367,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="oj148SortList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -489,6 +501,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -514,19 +539,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -633,8 +645,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -658,6 +670,27 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj623AddOneRowtoTree/AddOneRowtoTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="5" selection-start="1315" selection-end="2123" vertical-scroll-proportion="0.0" vertical-offset="613" max-vertical-offset="1350">
@@ -842,21 +875,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+        <state line="9" column="4" selection-start="157" selection-end="157" vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj450DeleteNodeinaBST/DeleteNodeinaBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+        <state line="63" column="61" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.7666195" vertical-offset="403" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj766ToeplitzMatrix/ToeplitzMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="17" selection-start="1167" selection-end="1167" vertical-scroll-proportion="0.8486563" vertical-offset="0" max-vertical-offset="780">
+        <state line="14" column="5" selection-start="311" selection-end="311" vertical-scroll-proportion="0.21216407" vertical-offset="60" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj148SortList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj148SortList/SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="29" selection-start="577" selection-end="675" vertical-scroll-proportion="0.5208333" vertical-offset="30" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
