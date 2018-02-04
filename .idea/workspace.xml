@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/KthSmallestElementinaBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/SecondMinimumNodeInaBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/TreeNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -71,18 +69,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/TreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="9" column="4" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthSmallestElementinaBST.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/KthSmallestElementinaBST.java">
+      <file leaf-file-name="SecondMinimumNodeInaBinaryTree.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/SecondMinimumNodeInaBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.375" vertical-offset="0" max-vertical-offset="720">
+            <state line="41" column="37" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.6458333" vertical-offset="150" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
@@ -103,6 +101,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/KthSmallestElementinaBST.java" />
+        <option value="$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/SecondMinimumNodeInaBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -186,7 +186,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oj230KthSmallestElementinaBST" />
+              <option name="myItemId" value="oj671SecondMinimumNodeInaBinaryTree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -399,7 +399,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj230KthSmallestElementinaBST/KthSmallestElementinaBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.375" vertical-offset="0" max-vertical-offset="720">
+        <state line="18" column="33" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/SecondMinimumNodeInaBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="37" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.6458333" vertical-offset="150" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
