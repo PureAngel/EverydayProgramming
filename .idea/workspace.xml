@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -80,17 +80,24 @@
         <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="35" column="32" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1395">
-              <folding>
-                <element signature="e#1247#1255#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="74" selection-start="1080" selection-end="1146" vertical-scroll-proportion="0.8125" vertical-offset="45" max-vertical-offset="765">
+            <state line="12" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumProductSubarray.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="3" selection-start="298" selection-end="298" vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -118,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/oj134GasStation/GasStation.java" />
         <option value="$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java" />
       </list>
     </option>
   </component>
@@ -251,6 +259,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="oj152MaximumProductSubarray" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="oj134GasStation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -293,8 +319,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,19 +396,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -408,6 +421,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -527,8 +553,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -561,10 +587,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="32" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj134GasStation/GasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="26" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1200">
-          <folding>
-            <element signature="e#1247#1255#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -630,9 +675,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1610" column="0" selection-start="62862" selection-end="62862" vertical-scroll-proportion="0.0" vertical-offset="23489" max-vertical-offset="47085">
-          <folding />
-        </state>
+        <state line="1610" column="0" selection-start="62862" selection-end="62862" vertical-scroll-proportion="0.0" vertical-offset="23489" max-vertical-offset="47085" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
@@ -674,15 +717,20 @@
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="32" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="1395">
-          <folding>
-            <element signature="e#1247#1255#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="74" selection-start="1080" selection-end="1146" vertical-scroll-proportion="0.8125" vertical-offset="45" max-vertical-offset="765">
+        <state line="12" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="298" selection-end="298" vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
