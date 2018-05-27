@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/KthLargestElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/QuickSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj263UglyNumber/UglyNumber.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,11 +114,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSelect.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QuickSelect.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/QuickSelect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UglyNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj263UglyNumber/UglyNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -163,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/oj166FractionToRecurringDecimal/FractionToRecurringDecimal.java" />
         <option value="$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/KthLargestElementInAnArray.java" />
         <option value="$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/QuickSelect.java" />
+        <option value="$PROJECT_DIR$/src/oj263UglyNumber/UglyNumber.java" />
       </list>
     </option>
   </component>
@@ -512,13 +520,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -855,6 +856,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj263UglyNumber/UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
