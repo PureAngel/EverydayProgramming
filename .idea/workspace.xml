@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/MinimumAbsoluteDifferenceInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -64,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OneEditDistance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj161OneEditDistance/OneEditDistance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="21" selection-start-line="60" selection-start-column="20" selection-end-line="62" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CompareVersionNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj165CompareVersionNumbers/CompareVersionNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -140,14 +130,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumAbsoluteDifferenceInBST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumAbsoluteDifferenceInBST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/MinimumAbsoluteDifferenceInBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="34" column="65" lean-forward="true" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
+            <state relative-caret-position="321">
+              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetectCapital.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -194,10 +193,11 @@
         <option value="$PROJECT_DIR$/src/oj264UglyNumber2/UglyNumber2.java" />
         <option value="$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/MinimumAbsoluteDifferenceInBST.java" />
+        <option value="$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="816" />
     <option name="height" value="821" />
@@ -511,7 +511,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="816" height="821" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -526,7 +526,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13725491" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -562,13 +562,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj149MaxPointsOnALine/MaxPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj134GasStation/GasStation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -891,11 +884,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/MinimumAbsoluteDifferenceInBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="34" column="65" lean-forward="true" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
+        <state relative-caret-position="321">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
         </state>
       </provider>
     </entry>
