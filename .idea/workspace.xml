@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,18 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FractionToRecurringDecimal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj166FractionToRecurringDecimal/FractionToRecurringDecimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KthLargestElementInAnArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/KthLargestElementInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,26 +124,35 @@
       <file leaf-file-name="DetectCapital.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="495">
               <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReshapeTheMatrix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReshapeTheMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
+            <state relative-caret-position="720">
               <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassLoader.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <file leaf-file-name="ArrayPartitionI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6675">
-              <caret line="508" selection-start-line="508" selection-end-line="508" />
+            <state relative-caret-position="225">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayPartition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -194,6 +192,8 @@
         <option value="$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/MinimumAbsoluteDifferenceInBST.java" />
         <option value="$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java" />
         <option value="$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java" />
+        <option value="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java" />
+        <option value="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java" />
       </list>
     </option>
   </component>
@@ -226,6 +226,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,13 +295,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj530MinimumAbsoluteDifferenceInBST" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj561ArrayPartitionI" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -562,20 +568,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj005LongestPalindromicSubstring/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -886,15 +878,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="495">
           <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
+        <state relative-caret-position="720">
           <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
