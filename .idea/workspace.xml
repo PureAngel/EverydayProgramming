@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj476NumberComplement/NumberComplement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -64,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KthLargestElementInAnArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/KthLargestElementInAnArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="50" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="QuickSelect.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/QuickSelect.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,16 +133,25 @@
         <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="3" />
+              <caret line="15" column="3" selection-start-line="4" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayPartition.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayPartition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberComplement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj476NumberComplement/NumberComplement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -194,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java" />
         <option value="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java" />
         <option value="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java" />
+        <option value="$PROJECT_DIR$/src/oj476NumberComplement/NumberComplement.java" />
       </list>
     </option>
   </component>
@@ -227,7 +227,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -305,6 +304,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FractionToRecurringDecimal">
+  <component name="RunManager" selected="Application.NumberComplement">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -354,19 +354,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="CourseSchedule2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj210CourseSchedule2.CourseSchedule2" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
     <configuration name="FractionToRecurringDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oj166FractionToRecurringDecimal.FractionToRecurringDecimal" />
       <module name="LeetCode" />
@@ -374,6 +361,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oj166FractionToRecurringDecimal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NumberComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj476NumberComplement.NumberComplement" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oj476NumberComplement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,19 +485,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.CourseSchedule2" />
       <item itemvalue="Application.PalindromicSubstrings" />
       <item itemvalue="Application.ReverseWordsInAString" />
       <item itemvalue="Application.CompareVersionNumbers" />
       <item itemvalue="Application.FractionToRecurringDecimal" />
+      <item itemvalue="Application.NumberComplement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberComplement" />
         <item itemvalue="Application.FractionToRecurringDecimal" />
         <item itemvalue="Application.CompareVersionNumbers" />
         <item itemvalue="Application.ReverseWordsInAString" />
         <item itemvalue="Application.PalindromicSubstrings" />
-        <item itemvalue="Application.CourseSchedule2" />
       </list>
     </recent_temporary>
   </component>
@@ -522,17 +520,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3278302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -541,7 +540,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -568,13 +566,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj152MaximumProductSubarray/MaximumProductSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj647PalindromicSubstrings/PalindromicSubstrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -893,14 +884,21 @@
     <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="4" selection-end-line="15" selection-end-column="3" />
+          <caret line="15" column="3" selection-start-line="4" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj476NumberComplement/NumberComplement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
         </state>
       </provider>
     </entry>
