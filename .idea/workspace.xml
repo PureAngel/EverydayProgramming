@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj492ConstructTheRectangle/ConstructTheRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj504Base7/Base7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,18 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinimumAbsoluteDifferenceInBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/MinimumAbsoluteDifferenceInBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DetectCapital.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -150,11 +138,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConstructTheRectangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConstructTheRectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj492ConstructTheRectangle/ConstructTheRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
               <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base7.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj504Base7/Base7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -201,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/oj442FindAllDuplicatesInAnArray/FindAllDuplicatesInAnArray.java" />
         <option value="$PROJECT_DIR$/src/oj463IslandPerimeter/IslandPerimeter.java" />
         <option value="$PROJECT_DIR$/src/oj492ConstructTheRectangle/ConstructTheRectangle.java" />
+        <option value="$PROJECT_DIR$/src/oj504Base7/Base7.java" />
       </list>
     </option>
   </component>
@@ -573,13 +571,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj134GasStation/GasStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -903,6 +894,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj504Base7/Base7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
