@@ -24,8 +24,23 @@ package oj189RotateArray;
  * Could you do it in-place with O(1) extra space?
  */
 
+
+// O(1) extra space
 public class RotateArray2 {
     public void rotate(int[] nums, int k) {
-        
+        int count = 0;
+        k = k % nums.length;
+        for(int start = 0; count < nums.length; start++) {
+            int current = start;
+            int prev_num = nums[start];
+            do {
+                int next = (current + k) % nums.length;
+                int temp_num = nums[next];
+                nums[next] = prev_num;
+                prev_num = temp_num;
+                count++;
+                current = next;
+            } while (start != current);
+        }
     }
 }
