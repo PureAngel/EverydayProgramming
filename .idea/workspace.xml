@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj189RotateArray/RotateArray3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KeyboardRow.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj500KeyboardRow/KeyboardRow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Base7.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj504Base7/Base7.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,11 +138,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateArray3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateArray3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj189RotateArray/RotateArray3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SummaryRanges.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -207,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray2.java" />
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray3.java" />
+        <option value="$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java" />
       </list>
     </option>
   </component>
@@ -263,6 +267,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj189RotateArray" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj228SummaryRanges" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -304,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberComplement">
+  <component name="RunManager" selected="Application.SummaryRanges">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -341,19 +351,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PalindromicSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj647PalindromicSubstrings.PalindromicSubstrings" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
     <configuration name="ReverseWordsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oj151ReverseWordsInAString.ReverseWordsInAString" />
       <module name="LeetCode" />
@@ -361,6 +358,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oj151ReverseWordsInAString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SummaryRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj228SummaryRanges.SummaryRanges" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oj228SummaryRanges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -450,19 +458,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.PalindromicSubstrings" />
       <item itemvalue="Application.ReverseWordsInAString" />
       <item itemvalue="Application.CompareVersionNumbers" />
       <item itemvalue="Application.FractionToRecurringDecimal" />
       <item itemvalue="Application.NumberComplement" />
+      <item itemvalue="Application.SummaryRanges" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SummaryRanges" />
         <item itemvalue="Application.NumberComplement" />
         <item itemvalue="Application.FractionToRecurringDecimal" />
         <item itemvalue="Application.CompareVersionNumbers" />
         <item itemvalue="Application.ReverseWordsInAString" />
-        <item itemvalue="Application.PalindromicSubstrings" />
       </list>
     </recent_temporary>
   </component>
@@ -485,17 +493,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3278302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -504,7 +513,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -523,7 +531,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -531,13 +547,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj671SecondMinimumNodeInaBinaryTree/SecondMinimumNodeInaBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -859,8 +868,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj189RotateArray/RotateArray3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
