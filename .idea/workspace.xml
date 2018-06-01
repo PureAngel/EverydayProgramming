@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxConsecutiveOnesII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaxConsecutiveOnesII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PredictTheWinner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -146,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java" />
         <option value="$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java" />
         <option value="$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java" />
+        <option value="$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java" />
       </list>
     </option>
   </component>
@@ -457,7 +468,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -500,13 +511,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj166FractionToRecurringDecimal/FractionToRecurringDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/KthLargestElementInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -902,8 +906,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
         </state>
       </provider>
     </entry>
