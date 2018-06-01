@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,11 +63,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContainsDuplicate3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContainsDuplicate3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+            <state relative-caret-position="203">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxConsecutiveOnes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -127,6 +136,7 @@
         <option value="$PROJECT_DIR$/src/oj229MajarityElements2/MajarityElements2.java" />
         <option value="$PROJECT_DIR$/src/oj221MaximalSquare/MaximalSquare.java" />
         <option value="$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java" />
+        <option value="$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java" />
       </list>
     </option>
   </component>
@@ -433,12 +443,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3278302" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -481,13 +491,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="2034" selection-start-line="2034" selection-end-line="2034" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6675">
@@ -883,8 +886,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+        <state relative-caret-position="203">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
         </state>
       </provider>
     </entry>
