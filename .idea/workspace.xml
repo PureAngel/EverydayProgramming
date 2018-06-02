@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -76,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubtreeOfAnotherTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubtreeOfAnotherTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="37" column="92" selection-start-line="37" selection-start-column="92" selection-end-line="37" selection-end-column="92" />
+            <state relative-caret-position="435">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AverageOfLevelsInBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/MostFrequentSubtreeSum.java" />
         <option value="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java" />
+        <option value="$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -248,6 +262,12 @@
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj572SubtreeOfAnotherTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj637AverageOfLevelsInBinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -521,20 +541,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -874,10 +880,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="37" column="92" selection-start-line="37" selection-start-column="92" selection-end-line="37" selection-end-column="92" />
+        <state relative-caret-position="435">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
