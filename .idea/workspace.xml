@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -66,8 +67,8 @@
       <file leaf-file-name="ContainsDuplicate3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -85,16 +86,28 @@
         <entry file="file://$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PredictTheWinner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PredictTheWinner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            <state relative-caret-position="315">
+              <caret line="21" column="90" selection-start-line="21" selection-start-column="90" selection-end-line="21" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindBottomLeftTreeValue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/FindBottomLeftTreeValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,6 +170,8 @@
         <option value="$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java" />
         <option value="$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java" />
         <option value="$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java" />
+        <option value="$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/FindBottomLeftTreeValue.java" />
       </list>
     </option>
   </component>
@@ -189,6 +204,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,13 +255,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj229MajarityElements2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj513FindBottomLeftTreeValue" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,13 +478,12 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3278302" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
@@ -483,6 +503,7 @@
       <window_info anchor="bottom" id="Changes" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -511,20 +532,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/KthLargestElementInAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/QuickSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj263UglyNumber/UglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -592,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,9 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="21" selection-start-line="27" selection-start-column="8" selection-end-line="47" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -689,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="82" column="36" lean-forward="true" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,11 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="275" selection-start-line="275" selection-end-line="275" />
-          <folding>
-            <element signature="e#7697#7698#0" expanded="true" />
-            <element signature="e#7728#7729#0" expanded="true" />
-            <element signature="e#10716#10717#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,10 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="351" selection-start-line="351" selection-end-line="351" />
-          <folding>
-            <element signature="e#8418#8419#0" expanded="true" />
-            <element signature="e#8445#8446#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,9 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#1598#1599#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,9 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#1082#1083#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,11 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="1141" selection-start-line="1141" selection-end-line="1141" />
-          <folding>
-            <element signature="e#43996#43997#0" expanded="true" />
-            <element signature="e#76018#76019#0" expanded="true" />
-            <element signature="e#76090#76091#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,10 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="450" selection-start-line="450" selection-end-line="450" />
-          <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -813,9 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
-          <folding>
-            <element signature="e#52271#52272#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -830,10 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="826" selection-start-line="826" selection-end-line="826" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,10 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="406" selection-start-line="406" selection-end-line="406" />
-          <folding>
-            <element signature="e#2871#2872#0" expanded="true" />
-            <element signature="e#2896#2897#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -892,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -907,14 +864,31 @@
     <entry file="file://$PROJECT_DIR$/src/oj487MaxConsecutiveOnesII/MaxConsecutiveOnesII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj486PredictTheWinner/PredictTheWinner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="21" column="90" selection-start-line="21" selection-start-column="90" selection-end-line="21" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/FindBottomLeftTreeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
