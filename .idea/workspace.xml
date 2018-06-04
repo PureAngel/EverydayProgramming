@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/ConstructBinaryTreeFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -127,14 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindLeavesOfBinaryTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java">
+      <file leaf-file-name="ConstructBinaryTreeFromString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/ConstructBinaryTreeFromString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="666">
+              <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -159,8 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj150EvaluateReversePolishNotation/EvaluateReversePolishNotation.java" />
-        <option value="$PROJECT_DIR$/src/oj151ReverseWordsInAString/ReverseWordsInAString.java" />
         <option value="$PROJECT_DIR$/src/oj161OneEditDistance/OneEditDistance.java" />
         <option value="$PROJECT_DIR$/src/oj165CompareVersionNumbers/CompareVersionNumbers.java" />
         <option value="$PROJECT_DIR$/src/oj166FractionToRecurringDecimal/FractionToRecurringDecimal.java" />
@@ -210,6 +205,8 @@
         <option value="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/DiameterOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/ConstructBinaryTreeFromString.java" />
       </list>
     </option>
   </component>
@@ -308,6 +305,12 @@
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj513FindBottomLeftTreeValue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj536ConstructBinaryTreeFromString" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -612,20 +615,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj504Base7/Base7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj461HammingDistance/HammingDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj259ThreeSumSmaller/ThreeSumSmaller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -973,11 +962,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
+        <state relative-caret-position="675">
           <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/ConstructBinaryTreeFromString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
         </state>
       </provider>
     </entry>
