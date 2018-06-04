@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -66,7 +67,7 @@
       <file leaf-file-name="MostFrequentSubtreeSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/MostFrequentSubtreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
+            <state relative-caret-position="645">
               <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -87,7 +88,7 @@
       <file leaf-file-name="AverageOfLevelsInBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="315">
               <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,8 +100,8 @@
       <file leaf-file-name="BinaryTreeTilt.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj563BinaryTreeTilt/BinaryTreeTilt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="63" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="930">
+              <caret line="63" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,11 +109,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+            <state relative-caret-position="651">
+              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiameterOfBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/DiameterOfBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -186,6 +196,8 @@
         <option value="$PROJECT_DIR$/src/oj563BinaryTreeTilt/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj563BinaryTreeTilt/BinaryTreeTilt.java" />
         <option value="$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java" />
+        <option value="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/DiameterOfBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -219,7 +231,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,6 +295,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj543DiameterOfBinaryTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj563BinaryTreeTilt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -308,6 +325,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -576,20 +594,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj442FindAllDuplicatesInAnArray/FindAllDuplicatesInAnArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj463IslandPerimeter/IslandPerimeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj492ConstructTheRectangle/ConstructTheRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -886,7 +890,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/MostFrequentSubtreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
+        <state relative-caret-position="645">
           <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -904,7 +908,7 @@
     <entry file="file://$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -917,7 +921,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="315">
           <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -927,18 +931,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj563BinaryTreeTilt/BinaryTreeTilt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="63" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="930">
+          <caret line="63" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        <state relative-caret-position="651">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/DiameterOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
         </state>
       </provider>
     </entry>
