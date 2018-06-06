@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj266PalindromePermutation/PalindromePermutation.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -144,11 +143,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestHarmoniousSubsequence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestHarmoniousSubsequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj266PalindromePermutation/PalindromePermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj215KthLargestElementInAnArray/QuickSelect.java" />
         <option value="$PROJECT_DIR$/src/oj263UglyNumber/UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/oj264UglyNumber2/UglyNumber2.java" />
         <option value="$PROJECT_DIR$/src/oj530MinimumAbsoluteDifferenceInBST/TreeNode.java" />
@@ -227,6 +237,7 @@
         <option value="$PROJECT_DIR$/src/oj606ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj575DistributeCandies/DistributeCandies.java" />
         <option value="$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/oj266PalindromePermutation/PalindromePermutation.java" />
       </list>
     </option>
   </component>
@@ -308,6 +319,12 @@
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj229MajarityElements2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj266PalindromePermutation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -604,7 +621,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.047916666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -648,13 +665,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj189RotateArray/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj189RotateArray/RotateArray2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1009,8 +1019,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj266PalindromePermutation/PalindromePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
