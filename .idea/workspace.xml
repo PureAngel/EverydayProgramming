@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj285InorderSuccessorInBST/InorderSuccessorInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj285InorderSuccessorInBST/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj334IncreasingTripletSubsequence/IncreasingTripletSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -64,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayNesting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ConstructBinaryTreeFromString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj536ConstructBinaryTreeFromString/ConstructBinaryTreeFromString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,7 +93,7 @@
       <file leaf-file-name="LongestHarmoniousSubsequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="270">
               <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -115,7 +105,7 @@
       <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj266PalindromePermutation/PalindromePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
+            <state relative-caret-position="645">
               <caret line="43" column="20" selection-start-line="24" selection-start-column="8" selection-end-line="43" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -137,16 +127,34 @@
         <entry file="file://$PROJECT_DIR$/src/oj370RangeAddition/RangeAddition.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InorderSuccessorInBST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InorderSuccessorInBST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj285InorderSuccessorInBST/InorderSuccessorInBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="381">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncreasingTripletSubsequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj334IncreasingTripletSubsequence/IncreasingTripletSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindLeavesOfBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -171,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj520DetectCapital/DetectCapital.java" />
         <option value="$PROJECT_DIR$/src/oj566ReshapeTheMatrix/ReshapeTheMatrix.java" />
         <option value="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartitionI.java" />
         <option value="$PROJECT_DIR$/src/oj561ArrayPartitionI/ArrayPartition.java" />
@@ -222,6 +229,7 @@
         <option value="$PROJECT_DIR$/src/oj370RangeAddition/RangeAddition.java" />
         <option value="$PROJECT_DIR$/src/oj285InorderSuccessorInBST/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj285InorderSuccessorInBST/InorderSuccessorInBST.java" />
+        <option value="$PROJECT_DIR$/src/oj334IncreasingTripletSubsequence/IncreasingTripletSubsequence.java" />
       </list>
     </option>
   </component>
@@ -255,6 +263,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,12 +325,6 @@
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj285InorderSuccessorInBST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oj366FindLeavesOfBinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -391,9 +396,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -661,13 +663,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj221MaximalSquare/MaximalSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -896,9 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -906,9 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="63" column="5" selection-start-line="30" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -937,13 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -984,7 +966,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="270">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -994,7 +976,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj266PalindromePermutation/PalindromePermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
+        <state relative-caret-position="645">
           <caret line="43" column="20" selection-start-line="24" selection-start-column="8" selection-end-line="43" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1012,7 +994,14 @@
     <entry file="file://$PROJECT_DIR$/src/oj370RangeAddition/RangeAddition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -1025,8 +1014,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj285InorderSuccessorInBST/InorderSuccessorInBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="381">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj334IncreasingTripletSubsequence/IncreasingTripletSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
