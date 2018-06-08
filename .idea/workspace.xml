@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj453MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj462MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,15 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConstructStringFromBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj606ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LongestHarmoniousSubsequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,11 +131,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumMovesToEqualArrayElements.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumMovesToEqualArrayElements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj453MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumMovesToEqualArrayElementsII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj462MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -165,6 +164,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Singleton" />
       </list>
     </option>
   </component>
@@ -179,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj476NumberComplement/NumberComplement.java" />
         <option value="$PROJECT_DIR$/src/oj500KeyboardRow/KeyboardRow.java" />
         <option value="$PROJECT_DIR$/src/oj442FindAllDuplicatesInAnArray/FindAllDuplicatesInAnArray.java" />
         <option value="$PROJECT_DIR$/src/oj463IslandPerimeter/IslandPerimeter.java" />
@@ -230,6 +229,7 @@
         <option value="$PROJECT_DIR$/src/oj333LargestBSTSubtree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj333LargestBSTSubtree/LargestBSTSubtree.java" />
         <option value="$PROJECT_DIR$/src/oj453MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java" />
+        <option value="$PROJECT_DIR$/src/oj462MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java" />
       </list>
     </option>
   </component>
@@ -667,13 +667,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="266" selection-start-line="266" selection-end-line="266" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1025,8 +1018,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj453MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj462MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
