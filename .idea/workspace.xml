@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinimumMovesToEqualArrayElements.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj453MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MinimumMovesToEqualArrayElementsII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj462MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -153,11 +144,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GuessNumberHigherOrLowerII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GuessNumberHigherOrLowerII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+              <caret line="39" column="24" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IsSubsequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -183,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj156BinaryTreeUpsideDown/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj156BinaryTreeUpsideDown/BinaryTreeUpsideDown.java" />
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray2.java" />
@@ -234,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java" />
         <option value="$PROJECT_DIR$/src/oj294FlipGameII/FlipGameII.java" />
         <option value="$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java" />
+        <option value="$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java" />
       </list>
     </option>
   </component>
@@ -557,13 +557,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="826" selection-start-line="826" selection-end-line="826" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -925,7 +918,14 @@
     <entry file="file://$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <caret line="39" column="24" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
