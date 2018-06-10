@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InorderSuccessorInBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj285InorderSuccessorInBST/InorderSuccessorInBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IncreasingTripletSubsequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj334IncreasingTripletSubsequence/IncreasingTripletSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,11 +138,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindAllNumbersDisappearedInAnArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindAllNumbersDisappearedInAnArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
               <caret line="35" column="20" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlipGame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj461HammingDistance/HammingDistance.java" />
         <option value="$PROJECT_DIR$/src/oj259ThreeSumSmaller/ThreeSumSmaller.java" />
         <option value="$PROJECT_DIR$/src/oj249GroupShiftedStrings/GroupShiftedStrings.java" />
         <option value="$PROJECT_DIR$/src/oj156BinaryTreeUpsideDown/TreeNode.java" />
@@ -231,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/oj416PartitionEqualSubsetSum/PartitionEqualSubsetSum.java" />
         <option value="$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java" />
         <option value="$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java" />
       </list>
     </option>
   </component>
@@ -554,13 +557,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -917,6 +913,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="35" column="20" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
