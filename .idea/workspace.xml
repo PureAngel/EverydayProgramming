@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,20 +138,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PartitionToKEqualSumSubsets.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PartitionToKEqualSumSubsets.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
+            <state relative-caret-position="525">
               <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindLeavesOfBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/FindLeavesOfBinaryTree.java">
+      <file leaf-file-name="FindAllNumbersDisappearedInAnArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="45" column="57" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+            <state relative-caret-position="493">
+              <caret line="35" column="20" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj504Base7/Base7.java" />
         <option value="$PROJECT_DIR$/src/oj461HammingDistance/HammingDistance.java" />
         <option value="$PROJECT_DIR$/src/oj259ThreeSumSmaller/ThreeSumSmaller.java" />
         <option value="$PROJECT_DIR$/src/oj249GroupShiftedStrings/GroupShiftedStrings.java" />
@@ -227,6 +230,7 @@
         <option value="$PROJECT_DIR$/src/oj414ThirdMaximumNumber/ThirdMaximumNumber.java" />
         <option value="$PROJECT_DIR$/src/oj416PartitionEqualSubsetSum/PartitionEqualSubsetSum.java" />
         <option value="$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java" />
+        <option value="$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java" />
       </list>
     </option>
   </component>
@@ -550,13 +554,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="450" selection-start-line="450" selection-end-line="450" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -911,8 +908,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="525">
           <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
