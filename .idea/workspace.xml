@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj325MaximumSizeSubarraySumEqualsk/MaximumSizeSubarraySumEqualsk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PartitionToKEqualSumSubsets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FindAllNumbersDisappearedInAnArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,11 +147,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumSizeSubarraySumEqualsk.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximumSizeSubarraySumEqualsk.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj325MaximumSizeSubarraySumEqualsk/MaximumSizeSubarraySumEqualsk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContiguousArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java" />
         <option value="$PROJECT_DIR$/src/oj229MajarityElements2/MajarityElements2.java" />
         <option value="$PROJECT_DIR$/src/oj221MaximalSquare/MaximalSquare.java" />
         <option value="$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java" />
@@ -240,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/oj252MeetingRooms/MeetingRooms.java" />
         <option value="$PROJECT_DIR$/src/oj254FactorCombinations/FactorCombinations.java" />
         <option value="$PROJECT_DIR$/src/oj325MaximumSizeSubarraySumEqualsk/MaximumSizeSubarraySumEqualsk.java" />
+        <option value="$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java" />
       </list>
     </option>
   </component>
@@ -569,13 +572,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -942,8 +938,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj325MaximumSizeSubarraySumEqualsk/MaximumSizeSubarraySumEqualsk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
