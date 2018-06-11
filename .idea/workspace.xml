@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj252MeetingRooms/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj252MeetingRooms/MeetingRooms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,29 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinimumMovesToEqualArrayElementsII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj462MinimumMovesToEqualArrayElementsII/MinimumMovesToEqualArrayElementsII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj415AddStrings/AddStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ThirdMaximumNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj414ThirdMaximumNumber/ThirdMaximumNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1021">
-              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+            <state relative-caret-position="1020">
+              <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/src/oj416PartitionEqualSubsetSum/PartitionEqualSubsetSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="795">
-              <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -105,7 +88,7 @@
       <file leaf-file-name="PartitionToKEqualSumSubsets.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="675">
               <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
             </state>
           </provider>
@@ -114,8 +97,8 @@
       <file leaf-file-name="FindAllNumbersDisappearedInAnArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="510">
+              <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,7 +109,7 @@
       <file leaf-file-name="FlipGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="405">
               <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/src/oj294FlipGameII/FlipGameII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="21" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+              <caret line="31" column="21" selection-start-line="18" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -147,17 +130,38 @@
       <file leaf-file-name="GuessNumberHigherOrLowerII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="585">
+              <caret line="39" column="24" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IsSubsequence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsSubsequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="630">
+              <caret line="42" column="21" selection-start-line="25" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interval.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj252MeetingRooms/Interval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeetingRooms.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj252MeetingRooms/MeetingRooms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -183,8 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj156BinaryTreeUpsideDown/BinaryTreeUpsideDown.java" />
-        <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray2.java" />
         <option value="$PROJECT_DIR$/src/oj189RotateArray/RotateArray3.java" />
         <option value="$PROJECT_DIR$/src/oj228SummaryRanges/SummaryRanges.java" />
@@ -234,6 +236,8 @@
         <option value="$PROJECT_DIR$/src/oj294FlipGameII/FlipGameII.java" />
         <option value="$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java" />
         <option value="$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/oj252MeetingRooms/Interval.java" />
+        <option value="$PROJECT_DIR$/src/oj252MeetingRooms/MeetingRooms.java" />
       </list>
     </option>
   </component>
@@ -265,9 +269,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,12 +285,21 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj252MeetingRooms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj414ThirdMaximumNumber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,14 +513,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
@@ -519,8 +528,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985849" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -529,6 +538,7 @@
       <window_info anchor="bottom" id="Changes" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -557,20 +567,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="406" selection-start-line="406" selection-end-line="406" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/OutputStreamWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -860,14 +856,14 @@
     <entry file="file://$PROJECT_DIR$/src/oj415AddStrings/AddStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj414ThirdMaximumNumber/ThirdMaximumNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1021">
-          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        <state relative-caret-position="1020">
+          <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -877,21 +873,21 @@
     <entry file="file://$PROJECT_DIR$/src/oj416PartitionEqualSubsetSum/PartitionEqualSubsetSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
-          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj698PartitionToKEqualSumSubsets/PartitionToKEqualSumSubsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="675">
           <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="510">
+          <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -900,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="405">
           <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -911,21 +907,38 @@
     <entry file="file://$PROJECT_DIR$/src/oj294FlipGameII/FlipGameII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+          <caret line="31" column="21" selection-start-line="18" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="585">
+          <caret line="39" column="24" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="630">
+          <caret line="42" column="21" selection-start-line="25" selection-start-column="8" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj252MeetingRooms/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj252MeetingRooms/MeetingRooms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
