@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj451SortCharactersByFrequency/SortCharactersByFrequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,18 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindAllNumbersDisappearedInAnArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj448FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FlipGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj293FlipGame/FlipGame.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -159,14 +147,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContiguousArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContiguousArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="540">
+              <caret line="36" column="23" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="36" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortCharactersByFrequency.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj451SortCharactersByFrequency/SortCharactersByFrequency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="101" column="36" lean-forward="true" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -192,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj229MajarityElements2/MajarityElements2.java" />
         <option value="$PROJECT_DIR$/src/oj221MaximalSquare/MaximalSquare.java" />
         <option value="$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java" />
         <option value="$PROJECT_DIR$/src/oj485MaxConsecutiveOnes/MaxConsecutiveOnes.java" />
@@ -243,6 +239,7 @@
         <option value="$PROJECT_DIR$/src/oj254FactorCombinations/FactorCombinations.java" />
         <option value="$PROJECT_DIR$/src/oj325MaximumSizeSubarraySumEqualsk/MaximumSizeSubarraySumEqualsk.java" />
         <option value="$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java" />
+        <option value="$PROJECT_DIR$/src/oj451SortCharactersByFrequency/SortCharactersByFrequency.java" />
       </list>
     </option>
   </component>
@@ -572,13 +569,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="525" selection-start-line="525" selection-end-line="525" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -948,11 +938,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj525ContiguousArray/ContiguousArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="540">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="36" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj451SortCharactersByFrequency/SortCharactersByFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="101" column="36" lean-forward="true" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
         </state>
       </provider>
     </entry>
