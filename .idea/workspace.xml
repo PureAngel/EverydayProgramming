@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -84,14 +84,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindTheDifference.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindTheDifference.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+            <state relative-caret-position="330">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RansomNote.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -117,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/FindBottomLeftTreeValue.java" />
         <option value="$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/MostFrequentSubtreeSum.java" />
         <option value="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/TreeNode.java" />
@@ -168,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/oj369PlusOneLinkedList/PlusOneLinkedList.java" />
         <option value="$PROJECT_DIR$/src/oj368LargestDivisibleSubset/LargestDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java" />
+        <option value="$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java" />
       </list>
     </option>
   </component>
@@ -227,6 +236,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj383RansomNote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj414ThirdMaximumNumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -276,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirdMaximumNumber">
+  <component name="RunManager" selected="Application.RansomNote">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -302,13 +317,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumberComplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj476NumberComplement.NumberComplement" />
+    <configuration name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj383RansomNote.RansomNote" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oj476NumberComplement.*" />
+          <option name="PATTERN" value="oj383RansomNote.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +435,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberComplement" />
       <item itemvalue="Application.SummaryRanges" />
       <item itemvalue="Application.MajarityElements2" />
       <item itemvalue="Application.ContainsDuplicate3" />
       <item itemvalue="Application.ThirdMaximumNumber" />
+      <item itemvalue="Application.RansomNote" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RansomNote" />
         <item itemvalue="Application.ThirdMaximumNumber" />
         <item itemvalue="Application.ContainsDuplicate3" />
         <item itemvalue="Application.MajarityElements2" />
         <item itemvalue="Application.SummaryRanges" />
-        <item itemvalue="Application.NumberComplement" />
       </list>
     </recent_temporary>
   </component>
@@ -455,17 +470,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3278302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -480,7 +496,6 @@
       <window_info anchor="bottom" id="Changes" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -500,8 +515,14 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -509,13 +530,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj513FindBottomLeftTreeValue/FindBottomLeftTreeValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -891,11 +905,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        <state relative-caret-position="330">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
