@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj540SingleElementInASortedArray/SingleElementInASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj674LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,11 +113,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestContinuousIncreasingSubsequence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestContinuousIncreasingSubsequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj674LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <caret line="27" column="22" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepeatedSubstringPattern.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -145,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj572SubtreeOfAnotherTree/SubtreeOfAnotherTree.java" />
         <option value="$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java" />
@@ -196,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java" />
         <option value="$PROJECT_DIR$/src/oj540SingleElementInASortedArray/SingleElementInASortedArray.java" />
         <option value="$PROJECT_DIR$/src/oj674LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java" />
       </list>
     </option>
   </component>
@@ -543,13 +550,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj508MostFrequentSubtreeSum/MostFrequentSubtreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -917,7 +917,14 @@
     <entry file="file://$PROJECT_DIR$/src/oj674LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <caret line="27" column="22" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
         </state>
       </provider>
     </entry>
