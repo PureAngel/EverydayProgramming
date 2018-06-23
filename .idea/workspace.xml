@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PlusOneLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj369PlusOneLinkedList/PlusOneLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LargestDivisibleSubset.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj368LargestDivisibleSubset/LargestDivisibleSubset.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,13 +147,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombinationSumIII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CombinationSumIII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="540">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheSkylineProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+              <folding>
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1015#1016#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj563BinaryTreeTilt/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj563BinaryTreeTilt/BinaryTreeTilt.java" />
         <option value="$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java" />
         <option value="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/TreeNode.java" />
@@ -240,6 +243,7 @@
         <option value="$PROJECT_DIR$/src/oj697DegreeOfAnArray/DegreeOfAnArray.java" />
         <option value="$PROJECT_DIR$/src/oj454_4SumII/fourSumII.java" />
         <option value="$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java" />
+        <option value="$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java" />
       </list>
     </option>
   </component>
@@ -587,13 +591,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj637AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj563BinaryTreeTilt/BinaryTreeTilt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
@@ -951,10 +948,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="540">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+          <folding>
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
           </folding>
         </state>
       </provider>
