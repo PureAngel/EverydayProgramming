@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj223RectangleArea/RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj247StrobogrammaticNumberII/StrobogrammaticNumberII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,18 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindTheDifference.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RansomNote.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -160,11 +148,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RectangleArea.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RectangleArea.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj223RectangleArea/RectangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="450">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StrobogrammaticNumberII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj247StrobogrammaticNumberII/StrobogrammaticNumberII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="105" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -190,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java" />
         <option value="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/DiameterOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj366FindLeavesOfBinaryTree/TreeNode.java" />
@@ -241,6 +240,7 @@
         <option value="$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java" />
         <option value="$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java" />
         <option value="$PROJECT_DIR$/src/oj223RectangleArea/RectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/oj247StrobogrammaticNumberII/StrobogrammaticNumberII.java" />
       </list>
     </option>
   </component>
@@ -588,13 +588,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj543DiameterOfBinaryTree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj565ArrayNesting/ArrayNesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
@@ -959,8 +952,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj223RectangleArea/RectangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="450">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj247StrobogrammaticNumberII/StrobogrammaticNumberII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="105" selection-start-line="40" selection-start-column="105" selection-end-line="40" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
