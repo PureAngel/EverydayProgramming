@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj60PermutationSequence/PermutationSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj852PeakIndexInAMountainArray/PeakIndexInAMountainArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RepeatedSubstringPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DegreeOfAnArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj697DegreeOfAnArray/DegreeOfAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -163,7 +154,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationSequence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermutationSequence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj60PermutationSequence/PermutationSequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
@@ -171,6 +162,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeakIndexInAMountainArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj852PeakIndexInAMountainArray/PeakIndexInAMountainArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -196,7 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj606ConstructStringFromBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj606ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj575DistributeCandies/DistributeCandies.java" />
         <option value="$PROJECT_DIR$/src/oj594LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java" />
@@ -247,6 +246,7 @@
         <option value="$PROJECT_DIR$/src/oj311SparseMatrixMultiplication/SparseMatrixMultiplication.java" />
         <option value="$PROJECT_DIR$/src/oj859BuddyStrings/BuddyStrings.java" />
         <option value="$PROJECT_DIR$/src/oj60PermutationSequence/PermutationSequence.java" />
+        <option value="$PROJECT_DIR$/src/oj852PeakIndexInAMountainArray/PeakIndexInAMountainArray.java" />
       </list>
     </option>
   </component>
@@ -594,13 +594,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj575DistributeCandies/DistributeCandies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj606ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -958,6 +951,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj852PeakIndexInAMountainArray/PeakIndexInAMountainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
