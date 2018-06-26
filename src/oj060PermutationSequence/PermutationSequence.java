@@ -1,4 +1,4 @@
-package oj60PermutationSequence;
+package oj060PermutationSequence;
 
 import java.util.ArrayList;
 import java.util.List;
