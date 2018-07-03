@@ -3,7 +3,7 @@ package oj004_2nd;
 public class MedianOfTwoSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int len1 = nums1.length, len2 = nums2.length;
-        int mid_len = (len1 + len2) / 2;
+        int mid_len = (len1 + len2 + 1) / 2;
 
         // ensure len1 <= len2
         if(len1 > len2) {
@@ -22,7 +22,7 @@ public class MedianOfTwoSortedArrays {
             int j = mid_len - i;
             if(i < iMax && nums1[i] < nums2[j - 1]) { // i is too small
                 iMin = i + 1;
-            } else if(i > iMin && nums1[i] > nums2[j + 1]) { // i is too big
+            } else if(i > iMin && nums1[i - 1] > nums2[j]) { // i is too big
                 iMax = i - 1;
             } else {
                 int maxLeft = 0;
@@ -51,5 +51,12 @@ public class MedianOfTwoSortedArrays {
             }
         }
         return 0.0;
+    }
+
+    public static void main(String[] args) {
+        int[] nums1 = {1, 1};
+        int[] nums2 = {1, 1};
+        MedianOfTwoSortedArrays medianOfTwoSortedArrays = new MedianOfTwoSortedArrays();
+        System.out.println(medianOfTwoSortedArrays.findMedianSortedArrays(nums1, nums2));
     }
 }

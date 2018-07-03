@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -148,8 +147,8 @@
       <file leaf-file-name="MedianOfTwoSortedArrays.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -268,7 +267,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,8 +292,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoSum">
+  <component name="RunManager" selected="Application.MedianOfTwoSortedArrays">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -342,13 +341,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MajarityElements2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj229MajarityElements2.MajarityElements2" />
+    <configuration name="MedianOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj004_2nd.MedianOfTwoSortedArrays" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oj229MajarityElements2.*" />
+          <option name="PATTERN" value="oj004_2nd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -471,19 +470,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.MajarityElements2" />
       <item itemvalue="Application.ContainsDuplicate3" />
       <item itemvalue="Application.ThirdMaximumNumber" />
       <item itemvalue="Application.RansomNote" />
       <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.MedianOfTwoSortedArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MedianOfTwoSortedArrays" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.RansomNote" />
         <item itemvalue="Application.ThirdMaximumNumber" />
         <item itemvalue="Application.ContainsDuplicate3" />
-        <item itemvalue="Application.MajarityElements2" />
       </list>
     </recent_temporary>
   </component>
@@ -506,17 +505,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3278302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -525,7 +525,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -909,8 +908,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="210">
+          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
         </state>
       </provider>
     </entry>
