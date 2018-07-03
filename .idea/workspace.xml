@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj006_2nd/ZigZagConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,18 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HouseRobberIII_sulution2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj337HouseRobberIII/HouseRobberIII_sulution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SuperUglyNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj313SuperUglyNumber/SuperUglyNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,11 +131,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZigZagConversion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZigZagConversion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj006_2nd/ZigZagConversion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="566">
               <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -184,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java" />
         <option value="$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java" />
         <option value="$PROJECT_DIR$/src/oj252MeetingRooms/Interval.java" />
         <option value="$PROJECT_DIR$/src/oj252MeetingRooms/MeetingRooms.java" />
@@ -235,6 +230,7 @@
         <option value="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/oj005_2nd/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/oj006_2nd/ZigZagConversion.java" />
+        <option value="$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java" />
       </list>
     </option>
   </component>
@@ -571,13 +567,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj375GuessNumberHigherOrLowerII/GuessNumberHigherOrLowerII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="24" selection-start-line="27" selection-start-column="8" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj392IsSubsequence/IsSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -922,6 +911,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
           <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
         </state>
       </provider>
     </entry>
