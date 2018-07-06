@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,17 +65,29 @@
       <file leaf-file-name="StringToInteger_atoi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj008_2nd/StringToInteger_atoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="900">
               <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreeSumClosest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreeSumClosest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCombinationsOfAPhoneNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj369PlusOneLinkedList/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj369PlusOneLinkedList/PlusOneLinkedList.java" />
         <option value="$PROJECT_DIR$/src/oj368LargestDivisibleSubset/LargestDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java" />
@@ -181,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/oj014_2nd/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java" />
+        <option value="$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java" />
       </list>
     </option>
   </component>
@@ -213,6 +224,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,13 +244,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj016_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj017_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -505,13 +522,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj369PlusOneLinkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj369PlusOneLinkedList/PlusOneLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -777,7 +787,7 @@
     <entry file="file://$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java" />
     <entry file="file://$PROJECT_DIR$/src/oj008_2nd/StringToInteger_atoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="900">
           <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
         </state>
       </provider>
@@ -792,7 +802,17 @@
     <entry file="file://$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
