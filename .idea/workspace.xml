@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj020_2nd/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj021_2nd/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj021_2nd/MergeTwoSortedLists.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidParentheses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj020_2nd/ValidParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+            <state relative-caret-position="321">
+              <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj021_2nd/MergeTwoSortedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -159,8 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj540SingleElementInASortedArray/SingleElementInASortedArray.java" />
-        <option value="$PROJECT_DIR$/src/oj674LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java" />
         <option value="$PROJECT_DIR$/src/oj697DegreeOfAnArray/DegreeOfAnArray.java" />
         <option value="$PROJECT_DIR$/src/oj454_4SumII/fourSumII.java" />
@@ -210,6 +218,8 @@
         <option value="$PROJECT_DIR$/src/oj019_2nd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj019_2nd/RemoveNthNodeFromEndOfList.java" />
         <option value="$PROJECT_DIR$/src/oj020_2nd/ValidParentheses.java" />
+        <option value="$PROJECT_DIR$/src/oj021_2nd/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/oj021_2nd/MergeTwoSortedLists.java" />
       </list>
     </option>
   </component>
@@ -327,6 +337,18 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj020_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj021_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj060PermutationSequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -557,12 +579,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3985849" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3985849" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -591,12 +613,6 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oj020_2nd/ValidParentheses.java</url>
-          <line>72</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="10" />
     </breakpoint-manager>
@@ -606,20 +622,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj540SingleElementInASortedArray/SingleElementInASortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="27" selection-start-line="15" selection-start-column="8" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj674LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="22" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj459RepeatedSubstringPattern/RepeatedSubstringPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -904,8 +906,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj020_2nd/ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+        <state relative-caret-position="321">
+          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj021_2nd/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj021_2nd/MergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
