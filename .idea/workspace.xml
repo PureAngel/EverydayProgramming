@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj018_2nd/FourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,20 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreeSumClosest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java">
+      <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="750">
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LetterCombinationsOfAPhoneNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java">
+      <file leaf-file-name="FourSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj018_2nd/FourSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="561">
+              <caret line="107" column="75" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj369PlusOneLinkedList/PlusOneLinkedList.java" />
         <option value="$PROJECT_DIR$/src/oj368LargestDivisibleSubset/LargestDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/oj389FindTheDifference/FindTheDifference.java" />
         <option value="$PROJECT_DIR$/src/oj383RansomNote/RansomNote.java" />
@@ -192,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java" />
         <option value="$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/oj018_2nd/FourSum.java" />
       </list>
     </option>
   </component>
@@ -224,8 +225,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,19 +243,67 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oj016_2nd" type="462c0819:PsiDirectoryNode" />
+              <item name="oj004_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oj017_2nd" type="462c0819:PsiDirectoryNode" />
+              <item name="oj005_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj008_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj009_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj010_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj011_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj012_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj013_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj014_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj015_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -522,13 +571,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj369PlusOneLinkedList/PlusOneLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj368LargestDivisibleSubset/LargestDivisibleSubset.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -798,7 +840,13 @@
     <entry file="file://$PROJECT_DIR$/src/oj012_2nd/IntegerToRoman.java" />
     <entry file="file://$PROJECT_DIR$/src/oj013_2nd/RomanToInteger.java" />
     <entry file="file://$PROJECT_DIR$/src/oj014_2nd/LongestCommonPrefix.java" />
-    <entry file="file://$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -810,6 +858,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj018_2nd/FourSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="107" column="75" selection-start-line="107" selection-start-column="75" selection-end-line="107" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
