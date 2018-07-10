@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj023_2nd/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj023_2nd/MergeKSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj024_2nd/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj024_2nd/SwapNodesInPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -85,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeKSortedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeKSortedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj023_2nd/MergeKSortedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="405">
+              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwapNodesInPairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj024_2nd/SwapNodesInPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -152,8 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java" />
-        <option value="$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java" />
         <option value="$PROJECT_DIR$/src/oj223RectangleArea/RectangleArea.java" />
         <option value="$PROJECT_DIR$/src/oj247StrobogrammaticNumberII/StrobogrammaticNumberII.java" />
         <option value="$PROJECT_DIR$/src/oj248StrobogrammaticNumberIII/StrobogrammaticNumberIII.java" />
@@ -203,6 +210,8 @@
         <option value="$PROJECT_DIR$/src/oj022_2nd/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/oj023_2nd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj023_2nd/MergeKSortedList.java" />
+        <option value="$PROJECT_DIR$/src/oj024_2nd/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/oj024_2nd/SwapNodesInPairs.java" />
       </list>
     </option>
   </component>
@@ -326,6 +335,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj023_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj024_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -605,20 +620,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj216CombinationSumIII/CombinationSumIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj223RectangleArea/RectangleArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj218TheSkylineProblem/TheSkylineProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -864,8 +865,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj023_2nd/MergeKSortedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="405">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj024_2nd/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj024_2nd/SwapNodesInPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
         </state>
       </provider>
     </entry>
