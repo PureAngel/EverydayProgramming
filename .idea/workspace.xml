@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,15 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringToInteger_atoi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj008_2nd/StringToInteger_atoi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GenerateParentheses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj022_2nd/GenerateParentheses.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,11 +128,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NextPermutation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NextPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="426">
+              <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestValidParentheses.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -178,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj859BuddyStrings/BuddyStrings.java" />
         <option value="$PROJECT_DIR$/src/oj60PermutationSequence/PermutationSequence.java" />
         <option value="$PROJECT_DIR$/src/oj852PeakIndexInAMountainArray/PeakIndexInAMountainArray.java" />
         <option value="$PROJECT_DIR$/src/oj079WordSearch/WordSearch.java" />
@@ -229,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/oj027_2nd/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/oj028_2nd/ImplementstrStr.java" />
         <option value="$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java" />
+        <option value="$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -389,6 +388,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj031_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj032_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -667,13 +672,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj859BuddyStrings/BuddyStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj060PermutationSequence/PermutationSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -938,8 +936,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="426">
+          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
         </state>
       </provider>
     </entry>
