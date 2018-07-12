@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,15 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveDuplicatesFromSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj026_2nd/RemoveDuplicatesFromSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ReverseNodesInKGroup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj025_2nd/ReverseNodesInKGroup.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -146,11 +137,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchForARange.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SearchForARange.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="104">
+              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -177,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/ClosestBinarySearchTreeValueII.java" />
         <option value="$PROJECT_DIR$/src/oj309BestTimeToBuyAndSellStockWithCooldown/BestTimeToBuyAndSellStockWithCooldown.java" />
         <option value="$PROJECT_DIR$/src/oj337HouseRobberIII/TreeNode.java" />
@@ -228,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/oj030SubstringWithConcatenationOfAllWords/SubstringWithConcatenationOfAllWords.java" />
         <option value="$PROJECT_DIR$/src/oj033_2nd/SearchInRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java" />
+        <option value="$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java" />
       </list>
     </option>
   </component>
@@ -422,6 +422,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj035_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj060PermutationSequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -463,7 +469,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchForARange">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -478,17 +484,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RansomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj383RansomNote.RansomNote" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oj383RansomNote.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="SearchForARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oj034_2nd.SearchForARange" />
       <module name="LeetCode" />
@@ -496,6 +491,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oj034_2nd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj035_2nd.SearchInsertPosition" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oj035_2nd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -607,19 +613,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.RansomNote" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.MedianOfTwoSortedArrays" />
       <item itemvalue="Application.ValidParentheses" />
       <item itemvalue="Application.SearchForARange" />
+      <item itemvalue="Application.SearchInsertPosition" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.SearchForARange" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.MedianOfTwoSortedArrays" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.RansomNote" />
       </list>
     </recent_temporary>
   </component>
@@ -688,13 +694,13 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java</url>
-          <line>58</line>
+          <url>file://$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java</url>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -702,13 +708,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/ClosestBinarySearchTreeValueII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -976,8 +975,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="104">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
         </state>
       </provider>
     </entry>
