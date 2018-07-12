@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj033_2nd/SearchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,18 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GenerateParentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj022_2nd/GenerateParentheses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RemoveDuplicatesFromSortedArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj026_2nd/RemoveDuplicatesFromSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -150,11 +137,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchInRotatedSortedArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SearchInRotatedSortedArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj033_2nd/SearchInRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+            <state relative-caret-position="336">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchForARange.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -181,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj163MissingRanges/MissingRanges.java" />
         <option value="$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/ClosestBinarySearchTreeValueII.java" />
         <option value="$PROJECT_DIR$/src/oj309BestTimeToBuyAndSellStockWithCooldown/BestTimeToBuyAndSellStockWithCooldown.java" />
@@ -232,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/oj029_2nd/DivideTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/oj030SubstringWithConcatenationOfAllWords/SubstringWithConcatenationOfAllWords.java" />
         <option value="$PROJECT_DIR$/src/oj033_2nd/SearchInRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java" />
       </list>
     </option>
   </component>
@@ -420,6 +416,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj034_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj060PermutationSequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -461,7 +463,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValidParentheses">
+  <component name="RunManager" selected="Application.SearchForARange">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -487,13 +489,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThirdMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj414ThirdMaximumNumber.ThirdMaximumNumber" />
+    <configuration name="SearchForARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj034_2nd.SearchForARange" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oj414ThirdMaximumNumber.*" />
+          <option name="PATTERN" value="oj034_2nd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -605,19 +607,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.ThirdMaximumNumber" />
       <item itemvalue="Application.RansomNote" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.MedianOfTwoSortedArrays" />
       <item itemvalue="Application.ValidParentheses" />
+      <item itemvalue="Application.SearchForARange" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchForARange" />
         <item itemvalue="Application.ValidParentheses" />
         <item itemvalue="Application.MedianOfTwoSortedArrays" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.RansomNote" />
-        <item itemvalue="Application.ThirdMaximumNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -640,17 +642,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3278302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3278302" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -659,7 +662,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -685,8 +687,14 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -694,13 +702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj163MissingRanges/MissingRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj272ClosestBinarySearchTreeValueII/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -968,8 +969,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj033_2nd/SearchInRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        <state relative-caret-position="336">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj034_2nd/SearchForARange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
