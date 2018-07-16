@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj867TransposeMatrix/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TransposeMatrix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TransposeMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj867TransposeMatrix/TransposeMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <caret line="34" column="19" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="34" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestTriangleArea.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -114,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj002_2nd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj002_2nd/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/oj003_2nd/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" />
@@ -165,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/oj044_2nd/WildcardMatching.java" />
         <option value="$PROJECT_DIR$/src/oj267PalindromePermutationII/PalindromePermutationII.java" />
         <option value="$PROJECT_DIR$/src/oj867TransposeMatrix/TransposeMatrix.java" />
+        <option value="$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java" />
       </list>
     </option>
   </component>
@@ -579,13 +588,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj001_2nd/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj291WordPatternII/WordPatternII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -701,7 +703,14 @@
     <entry file="file://$PROJECT_DIR$/src/oj867TransposeMatrix/TransposeMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <caret line="34" column="19" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
         </state>
       </provider>
     </entry>
