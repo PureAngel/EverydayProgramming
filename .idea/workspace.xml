@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj611ValidTriangleNumber/ValidTriangleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj593ValidSquare/ValidSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -81,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidTriangleNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidTriangleNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj611ValidTriangleNumber/ValidTriangleNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidSquare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj593ValidSquare/ValidSquare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -124,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/oj005_2nd/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/oj006_2nd/ZigZagConversion.java" />
         <option value="$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java" />
@@ -175,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java" />
         <option value="$PROJECT_DIR$/src/oj680ValidPalindromeII/ValidPalindromeII.java" />
         <option value="$PROJECT_DIR$/src/oj611ValidTriangleNumber/ValidTriangleNumber.java" />
+        <option value="$PROJECT_DIR$/src/oj593ValidSquare/ValidSquare.java" />
       </list>
     </option>
   </component>
@@ -305,6 +314,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj267PalindromePermutationII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj593ValidSquare" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -601,13 +616,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj005_2nd/LongestPalindromicSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -711,7 +719,14 @@
     <entry file="file://$PROJECT_DIR$/src/oj611ValidTriangleNumber/ValidTriangleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="66" selection-start-line="25" selection-start-column="66" selection-end-line="25" selection-end-column="66" />
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj593ValidSquare/ValidSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
         </state>
       </provider>
     </entry>
