@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj557ReverseWordsInAStringIII/ReverseWordsInAStringIII.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,17 +65,17 @@
       <file leaf-file-name="BullsAndCows.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj299BullsAndCows/BullsAndCows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            <state relative-caret-position="540">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsInAStringII.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java">
+      <file leaf-file-name="ReverseWordsInAStringIII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj557ReverseWordsInAStringIII/ReverseWordsInAStringIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="450">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -103,7 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/oj005_2nd/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/oj006_2nd/ZigZagConversion.java" />
         <option value="$PROJECT_DIR$/src/oj007_2nd/ReverseInteger.java" />
@@ -154,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java" />
         <option value="$PROJECT_DIR$/src/oj299BullsAndCows/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java" />
+        <option value="$PROJECT_DIR$/src/oj557ReverseWordsInAStringIII/ReverseWordsInAStringIII.java" />
       </list>
     </option>
   </component>
@@ -186,8 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +198,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj557ReverseWordsInAStringIII" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePermutationII">
+  <component name="RunManager" selected="Application.ReverseWordsInAStringIII">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -276,13 +281,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SearchForARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj034_2nd.SearchForARange" />
+    <configuration name="ReverseWordsInAStringIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj557ReverseWordsInAStringIII.ReverseWordsInAStringIII" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oj034_2nd.*" />
+          <option name="PATTERN" value="oj557ReverseWordsInAStringIII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,19 +388,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.SearchForARange" />
       <item itemvalue="Application.SearchInsertPosition" />
       <item itemvalue="Application.CountAndSay" />
       <item itemvalue="Application.FirstMissingPositive" />
       <item itemvalue="Application.PalindromePermutationII" />
+      <item itemvalue="Application.ReverseWordsInAStringIII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseWordsInAStringIII" />
         <item itemvalue="Application.PalindromePermutationII" />
         <item itemvalue="Application.FirstMissingPositive" />
         <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.SearchForARange" />
       </list>
     </recent_temporary>
   </component>
@@ -424,12 +429,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3278302" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3272727" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19513889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742489" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -484,13 +489,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj004_2nd/MedianOfTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj005_2nd/LongestPalindromicSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -598,15 +596,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj299BullsAndCows/BullsAndCows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        <state relative-caret-position="540">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java">
+    <entry file="file://$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java" />
+    <entry file="file://$PROJECT_DIR$/src/oj557ReverseWordsInAStringIII/ReverseWordsInAStringIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state relative-caret-position="450">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
