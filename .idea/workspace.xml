@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj057InsertInterval/InsertInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj057InsertInterval/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj053_2nd/MaximumSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -127,14 +126,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertInterval.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertInterval.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj057InsertInterval/InsertInterval.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
+            <state relative-caret-position="1305">
               <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumSubarray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj053_2nd/MaximumSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -170,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java" />
         <option value="$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/oj018_2nd/FourSum.java" />
         <option value="$PROJECT_DIR$/src/oj019_2nd/ListNode.java" />
@@ -221,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java" />
         <option value="$PROJECT_DIR$/src/oj057InsertInterval/Interval.java" />
         <option value="$PROJECT_DIR$/src/oj057InsertInterval/InsertInterval.java" />
+        <option value="$PROJECT_DIR$/src/oj053_2nd/MaximumSubarray.java" />
       </list>
     </option>
   </component>
@@ -589,13 +597,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj017_2nd/LetterCombinationsOfAPhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -770,11 +771,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj057InsertInterval/InsertInterval.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
+        <state relative-caret-position="1305">
           <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj053_2nd/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
