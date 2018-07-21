@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj051_2nd/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -102,11 +102,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj051_2nd/NQueens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+            <state relative-caret-position="302">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NQueensII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj012_2nd/IntegerToRoman.java" />
-        <option value="$PROJECT_DIR$/src/oj013_2nd/RomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/oj014_2nd/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/oj016_2nd/ThreeSumClosest.java" />
@@ -187,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/oj050_2nd/PowXN.java" />
         <option value="$PROJECT_DIR$/src/oj045_2nd/JumpGameII.java" />
         <option value="$PROJECT_DIR$/src/oj051_2nd/NQueens.java" />
+        <option value="$PROJECT_DIR$/src/oj051NQueensII/NQueensII.java" />
+        <option value="$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java" />
       </list>
     </option>
   </component>
@@ -549,7 +561,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj013_2nd/RomanToInteger.java" />
     <entry file="file://$PROJECT_DIR$/src/oj014_2nd/LongestCommonPrefix.java" />
     <entry file="file://$PROJECT_DIR$/src/oj015_2nd/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -712,8 +723,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj051_2nd/NQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+        <state relative-caret-position="302">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
