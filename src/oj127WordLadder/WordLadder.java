@@ -16,6 +16,17 @@ import java.util.*;
  As one shortest transformation is "hit" -> "hot" -> "dot" -> "dog" -> "cog",
  return its length 5.
 
+ Example 2:
+
+ Input:
+ beginWord = "hit"
+ endWord = "cog"
+ wordList = ["hot","dot","dog","lot","log"]
+
+ Output: 0
+
+ Explanation: The endWord "cog" is not in wordList, therefore no possible transformation.
+
  Note:
  Return 0 if there is no such transformation sequence.
  All words have the same length.
@@ -29,59 +40,40 @@ import java.util.*;
  */
 public class WordLadder {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        wordList.add(endWord);
-        Queue<String> queue = new LinkedList<String>();
-        queue.add(beginWord);
-        int level = 0;
-        while(!queue.isEmpty()){
-            int size = queue.size();
-            for(int i = 0; i < size; i++){
-                String cur = queue.remove();
-                if(cur.equals(endWord)){ return level + 1;}
-                for(int j = 0; j < cur.length(); j++){
-                    char[] word = cur.toCharArray();
-                    for(char ch = 'a'; ch < 'z'; ch++){
-                        word[j] = ch;
-                        String check = new String(word);
-                        if(!check.equals(cur) && wordList.contains(check)){
-                            queue.add(check);
-                            wordList.remove(check);
-                        }
-                    }
-                }
-            }
-            level++;
-        }
-        return 0;
-        /*
-        Set<String> reached = new HashSet<String>();
+        Set<String> reached = new HashSet<>();
         reached.add(beginWord);
-        Set<String> wordDict = new HashSet<String>(wordList);
-        wordDict.add(endWord);
-
+        Set<String> wordDict = new HashSet<>(wordList);
         int distance = 1;
-        while(!reached.contains(endWord)) {
-            Set<String> newSet = new HashSet<String>();
-            for(String word: reached) {
-                int size = word.length();
-                for(int i = 0; i < size; i++) {
-                    char[] currentWord = word.toCharArray();
+        while (!reached.contains(endWord)) {
+            Set<String> toAdd = new HashSet<>();
+            for(String each: reached) {
+                for(int i = 0; i < each.length(); i++) {
+                    char[] chars = each.toCharArray();
                     for(char c = 'a'; c <= 'z'; c++) {
-                        currentWord[i] = c;
-                        String newWord = new String(currentWord);
-                        if(wordDict.contains(newWord)) {
-                            newSet.add(newWord);
-                            wordDict.remove(newWord);
+                        chars[i] = c;
+                        String word = new String(chars);
+                        if(wordDict.contains(word)) {
+                            toAdd.add(word);
+                            wordDict.remove(word);
                         }
                     }
                 }
             }
             distance++;
-            if(newSet.size() == 0) {
+            if(toAdd.size() == 0) {
                 return 0;
             }
-            reached = newSet;
+            reached = toAdd;
         }
-        return distance;*/
+        return distance;
+    }
+
+    public static void main(String[] args) {
+        String beginWord = "hit";
+        String endWord = "cog";
+        String[] strings = new String[]{"hot","dot","dog","lot","log"};
+        List<String> wordList = new ArrayList<>(Arrays.asList(strings));
+        WordLadder wordLadder = new WordLadder();
+        System.out.println(wordLadder.ladderLength(beginWord, endWord, wordList));
     }
 }
