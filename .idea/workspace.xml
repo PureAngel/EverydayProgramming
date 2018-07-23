@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj783MinimumDistanceBetweenBSTNodes/MinimumDistanceBetweenBSTNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj783MinimumDistanceBetweenBSTNodes/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj796RotateString/RotateString.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,7 +74,7 @@
       <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj051_2nd/NQueens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
+            <state relative-caret-position="840">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,7 +86,7 @@
       <file leaf-file-name="NQueensII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
+            <state relative-caret-position="885">
               <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,7 +131,7 @@
       <file leaf-file-name="LeafSimilarTrees.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj872LeafSimilarTrees/LeafSimilarTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="510">
               <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -142,11 +140,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumDistanceBetweenBSTNodes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumDistanceBetweenBSTNodes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj783MinimumDistanceBetweenBSTNodes/MinimumDistanceBetweenBSTNodes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
               <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj796RotateString/RotateString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -182,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj021_2nd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj021_2nd/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/oj022_2nd/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/oj023_2nd/ListNode.java" />
@@ -233,6 +239,7 @@
         <option value="$PROJECT_DIR$/src/oj872LeafSimilarTrees/LeafSimilarTrees.java" />
         <option value="$PROJECT_DIR$/src/oj783MinimumDistanceBetweenBSTNodes/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj783MinimumDistanceBetweenBSTNodes/MinimumDistanceBetweenBSTNodes.java" />
+        <option value="$PROJECT_DIR$/src/oj796RotateString/RotateString.java" />
       </list>
     </option>
   </component>
@@ -286,15 +293,21 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj796RotateString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj872LeafSimilarTrees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,7 +531,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20277777" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -546,32 +559,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oj220ContainsDuplicate3/ContainsDuplicate3.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oj041_2nd/FirstMissingPositive.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oj047_2nd/PermutationsII.java</url>
-          <line>48</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="17" />
     </breakpoint-manager>
   </component>
@@ -580,7 +567,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj021_2nd/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/src/oj021_2nd/MergeTwoSortedLists.java" />
     <entry file="file://$PROJECT_DIR$/src/oj023_2nd/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/src/oj023_2nd/MergeKSortedList.java" />
@@ -710,7 +696,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj051_2nd/NQueens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
+        <state relative-caret-position="840">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -720,7 +706,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
+        <state relative-caret-position="885">
           <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -771,7 +757,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj872LeafSimilarTrees/LeafSimilarTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="510">
           <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -790,6 +776,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj796RotateString/RotateString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
