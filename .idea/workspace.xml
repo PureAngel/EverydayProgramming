@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,8 +74,8 @@
       <file leaf-file-name="WordLadderII.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="1815">
+              <caret line="121" column="5" lean-forward="true" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,8 +137,8 @@
       <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="74" column="72" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="74" selection-end-column="72" />
+            <state relative-caret-position="1110">
+              <caret line="74" column="72" selection-start-line="73" selection-start-column="8" selection-end-line="74" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -247,7 +247,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,7 +306,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -527,12 +527,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.32665095" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20694445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20958512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -562,7 +562,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java</url>
-          <line>82</line>
+          <line>129</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -785,15 +785,15 @@
     <entry file="file://$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="74" column="72" lean-forward="true" selection-start-line="73" selection-start-column="8" selection-end-line="74" selection-end-column="72" />
+        <state relative-caret-position="1110">
+          <caret line="74" column="72" selection-start-line="73" selection-start-column="8" selection-end-line="74" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="1815">
+          <caret line="121" column="5" lean-forward="true" selection-start-line="121" selection-start-column="5" selection-end-line="121" selection-end-column="5" />
         </state>
       </provider>
     </entry>

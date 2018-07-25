@@ -38,49 +38,97 @@ import java.util.*;
  * Explanation: The endWord "cog" is not in wordList, therefore no possible transformation.
  */
 
+// use bfs to find the shortest distance from beginWord to endWord, and store each node's neighbours.
+// use dfs to output paths with the same distance as the shortest distance from distance map.
 public class WordLadderII {
     public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
-        List<List<String>> lists = new ArrayList<>();
-        List<String> list = new ArrayList<>();
-        list.add(beginWord);
-        wordList.add(endWord);
-        backtrack(lists, list, new HashSet<>(wordList), endWord);
-        return lists;
+        List<List<String>> res = new ArrayList<>();
+        List<String> path = new ArrayList<>();
+        Map<String, List<String>> nodeNeighbors = new HashMap<>();
+        Set<String> wordDict = new HashSet<>(wordList);
+        Map<String, Integer> distance = new HashMap<>(); // distance from each word to beginWord
+
+        wordDict.add(beginWord);
+        bfs(beginWord, endWord, wordDict, nodeNeighbors, distance);
+        dfs(beginWord, endWord, wordDict, res, path, nodeNeighbors, distance);
+
+        return res;
     }
 
-    private void backtrack(List<List<String>> lists, List<String> list, Set<String> wordDict, String endWord) {
-        if(list.contains(endWord)) {
-            lists.add(list);
-        } else {
-            for(int i = 0; i < list.size(); i++) {
-                char[] chars = list.get(i).toCharArray();
-                for(int j = 0; j < chars.length; j++) {
-                    for(char c = 'a'; c <= 'z'; c++) {
-                        char ch = chars[j];
-                        chars[j] = c;
-                        String word = new String(chars);
-                        if(wordDict.contains(word)) {
-                            list.add(word);
-                            wordDict.remove(word);
-                            backtrack(lists, list, wordDict, endWord);
-                            list.remove(word);
-                            wordDict.add(word);
+    private void bfs(String beginWord, String endWord, Set<String> wordDict, Map<String, List<String>> nodeNeighbors, Map<String, Integer> distance) {
+        for(String s: wordDict) {
+            nodeNeighbors.put(s, new ArrayList<>());
+        }
+
+        Queue<String> queue = new LinkedList<>();
+        queue.add(beginWord);
+        distance.put(beginWord, 0);
+        while(!queue.isEmpty()) {
+            int count = queue.size();
+            boolean foundEnd = false;
+            for(int i = 0; i < count; i++) {
+                String word = queue.poll();
+                List<String> neighbors = getNeighbors(word, wordDict);
+                int curDistance = distance.get(word);
+
+                for(String neighbor: neighbors) {
+                    nodeNeighbors.get(word).add(neighbor);
+                    if(!distance.containsKey(neighbor)) {
+                        distance.put(neighbor, curDistance + 1);
+                        if(endWord.equals(neighbor)) {
+                            foundEnd = true;
                         } else {
-                            chars[j] = ch;
+                            queue.add(neighbor);
                         }
                     }
                 }
             }
+            if(foundEnd) {
+                break;
+            }
         }
+    }
+
+    private void dfs(String curWord, String endWord, Set<String> wordDict, List<List<String>> res,
+                     List<String> path, Map<String, List<String>> nodeNeighbors, Map<String, Integer> distance) {
+        path.add(curWord);
+        if(endWord.equals(curWord)) {
+            res.add(new ArrayList<>(path));
+        } else {
+            for(String neighbor: nodeNeighbors.get(curWord)) {
+                if(distance.get(neighbor) == distance.get(curWord) + 1) {
+                    dfs(neighbor, endWord, wordDict, res, path, nodeNeighbors, distance);
+                }
+            }
+        }
+        path.remove(curWord);
+    }
+
+    private List<String> getNeighbors(String word, Set<String> wordDict) {
+        List<String> neighbors = new ArrayList<>();
+        char[] chars = word.toCharArray();
+        for(int i = 0; i < chars.length; i++) {
+            char ch = chars[i];
+            for(char c = 'a'; c <= 'z'; c++) {
+                chars[i] = c;
+                String newWord = new String(chars);
+                if(wordDict.contains(newWord)) {
+                    neighbors.add(newWord);
+                }
+                chars[i] = ch;
+            }
+        }
+        return neighbors;
     }
 
     public static void main(String[] args) {
         String beginWord = "hit";
         String endWord = "cog";
-        String[] strings = new String[]{"hot","dot","dog","lot","log"};
+        String[] strings = new String[]{"hot","dot","dog","lot","log","cog"};
         List<String> wordList = new ArrayList<>(Arrays.asList(strings));
         WordLadderII wordLadderII = new WordLadderII();
         List<List<String>> lists = wordLadderII.findLadders(beginWord, endWord, wordList);
+        System.out.println(lists.size());
         for(int i = 0; i < lists.size(); i++) {
             for(int j = 0; j < lists.get(i).size(); j++) {
                 System.out.print(lists.get(i).get(j) + " ");
