@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj135Candy/Candy.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,11 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromePartitioningII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PalindromePartitioningII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="330">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Candy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj135Candy/Candy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -174,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj025_2nd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj025_2nd/ReverseNodesInKGroup.java" />
         <option value="$PROJECT_DIR$/src/oj027_2nd/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/oj028_2nd/ImplementstrStr.java" />
@@ -225,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
         <option value="$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java" />
         <option value="$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java" />
+        <option value="$PROJECT_DIR$/src/oj135Candy/Candy.java" />
       </list>
     </option>
   </component>
@@ -286,6 +295,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj132PalindromePartitioningII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj135Candy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -590,7 +605,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj026_2nd/RemoveDuplicatesFromSortedArray.java" />
     <entry file="file://$PROJECT_DIR$/src/oj025_2nd/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/src/oj025_2nd/ReverseNodesInKGroup.java" />
     <entry file="file://$PROJECT_DIR$/src/oj027_2nd/RemoveElement.java" />
@@ -813,8 +827,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        <state relative-caret-position="330">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj135Candy/Candy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
         </state>
       </provider>
     </entry>
