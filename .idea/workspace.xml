@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj709ToLowerCase/ToLowerCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -76,20 +76,29 @@
         <entry file="file://$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+              <caret line="20" column="9" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordBreakII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordBreakII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+            <state relative-caret-position="103">
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ToLowerCase.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj709ToLowerCase/ToLowerCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -103,22 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpiralMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj054_2nd/SpiralMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="57" column="20" selection-start-line="30" selection-start-column="8" selection-end-line="57" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LeafSimilarTrees.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj872LeafSimilarTrees/LeafSimilarTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="525">
               <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -148,7 +145,7 @@
       <file leaf-file-name="MinimumIndexSumOfTwoLists.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj599MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="480">
               <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -188,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/oj029_2nd/DivideTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/oj030SubstringWithConcatenationOfAllWords/SubstringWithConcatenationOfAllWords.java" />
@@ -239,10 +235,11 @@
         <option value="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java" />
         <option value="$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java" />
+        <option value="$PROJECT_DIR$/src/oj709ToLowerCase/ToLowerCase.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -271,6 +268,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,6 +322,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj709ToLowerCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj783MinimumDistanceBetweenBSTNodes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -341,8 +346,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -551,7 +554,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -566,14 +569,13 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21459228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21745351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39740565" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32900944" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
@@ -582,6 +584,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Changes" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32900944" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -603,7 +606,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj028_2nd/ImplementstrStr.java" />
     <entry file="file://$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java" />
     <entry file="file://$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java" />
     <entry file="file://$PROJECT_DIR$/src/oj029_2nd/DivideTwoIntegers.java" />
@@ -740,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj054_2nd/SpiralMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
+        <state relative-caret-position="855">
           <caret line="57" column="20" selection-start-line="30" selection-start-column="8" selection-end-line="57" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -757,7 +759,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj872LeafSimilarTrees/LeafSimilarTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="525">
           <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -788,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj599MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="480">
           <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -826,18 +828,25 @@
     <entry file="file://$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+          <caret line="20" column="9" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        <state relative-caret-position="103">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj709ToLowerCase/ToLowerCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
