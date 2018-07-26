@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,15 +72,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestRectangleInHistogram.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LargestRectangleInHistogram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="300">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="e#365#366#0" expanded="true" />
                 <element signature="e#396#397#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordBreakII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -178,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj028_2nd/ImplementstrStr.java" />
         <option value="$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/oj029_2nd/DivideTwoIntegers.java" />
@@ -229,6 +238,7 @@
         <option value="$PROJECT_DIR$/src/oj135Candy/Candy.java" />
         <option value="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java" />
+        <option value="$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java" />
       </list>
     </option>
   </component>
@@ -290,6 +300,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj127WordLadder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj140WordBreakII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -587,7 +603,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj027_2nd/RemoveElement.java" />
     <entry file="file://$PROJECT_DIR$/src/oj028_2nd/ImplementstrStr.java" />
     <entry file="file://$PROJECT_DIR$/src/oj031_2nd/NextPermutation.java" />
     <entry file="file://$PROJECT_DIR$/src/oj032_2nd/LongestValidParentheses.java" />
@@ -810,12 +825,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="e#365#366#0" expanded="true" />
             <element signature="e#396#397#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
         </state>
       </provider>
     </entry>
