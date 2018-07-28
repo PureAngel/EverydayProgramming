@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj821ShortestDistanceToACharacter/ShortestDistanceToACharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -102,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlippingAnImage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FlippingAnImage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShortestDistanceToACharacter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj821ShortestDistanceToACharacter/ShortestDistanceToACharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="35" column="19" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="35" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -172,7 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj039_2nd/CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/oj040_2nd/CombinationSum2.java" />
         <option value="$PROJECT_DIR$/src/oj041_2nd/FirstMissingPositive.java" />
         <option value="$PROJECT_DIR$/src/oj042_2nd/TrappingRainWater.java" />
@@ -223,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java" />
+        <option value="$PROJECT_DIR$/src/oj821ShortestDistanceToACharacter/ShortestDistanceToACharacter.java" />
       </list>
     </option>
   </component>
@@ -355,7 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumBinaryTree">
+  <component name="RunManager" selected="Application.ShortestDistanceToACharacter">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -370,17 +379,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj047_2nd.PermutationsII" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oj047_2nd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="PowXN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oj050_2nd.PowXN" />
       <module name="LeetCode" />
@@ -388,6 +386,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oj050_2nd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ShortestDistanceToACharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj821ShortestDistanceToACharacter.ShortestDistanceToACharacter" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oj821ShortestDistanceToACharacter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -499,19 +508,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.PermutationsII" />
       <item itemvalue="Application.PowXN" />
       <item itemvalue="Application.WordLadder" />
       <item itemvalue="Application.WordLadderII" />
       <item itemvalue="Application.MaximumBinaryTree" />
+      <item itemvalue="Application.ShortestDistanceToACharacter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortestDistanceToACharacter" />
         <item itemvalue="Application.MaximumBinaryTree" />
         <item itemvalue="Application.WordLadderII" />
         <item itemvalue="Application.WordLadder" />
         <item itemvalue="Application.PowXN" />
-        <item itemvalue="Application.PermutationsII" />
       </list>
     </recent_temporary>
   </component>
@@ -534,18 +543,19 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3260606" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3254717" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Thumbnails" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21180555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21180555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -559,7 +569,6 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22031474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -593,7 +602,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="21" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj821ShortestDistanceToACharacter/ShortestDistanceToACharacter.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -601,7 +618,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj038_2nd/CountAndSay.java" />
     <entry file="file://$PROJECT_DIR$/src/oj039_2nd/CombinationSum.java" />
     <entry file="file://$PROJECT_DIR$/src/oj040_2nd/CombinationSum2.java" />
     <entry file="file://$PROJECT_DIR$/src/oj041_2nd/FirstMissingPositive.java" />
@@ -887,8 +903,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj821ShortestDistanceToACharacter/ShortestDistanceToACharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
