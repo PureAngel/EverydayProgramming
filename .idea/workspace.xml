@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -93,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageSmoother.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImageSmoother.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
               <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlippingAnImage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -107,27 +116,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1365">
               <caret line="139" selection-start-line="139" selection-end-line="139" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeafSimilarTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj872LeafSimilarTrees/LeafSimilarTrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="35" column="20" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinimumDistanceBetweenBSTNodes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj783MinimumDistanceBetweenBSTNodes/MinimumDistanceBetweenBSTNodes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -184,9 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj036_2nd/ValidSudoku.java" />
-        <option value="$PROJECT_DIR$/src/oj037_2nd/SudokuSolver.java" />
-        <option value="$PROJECT_DIR$/src/oj038_2nd/CountAndSay.java" />
         <option value="$PROJECT_DIR$/src/oj039_2nd/CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/oj040_2nd/CombinationSum2.java" />
         <option value="$PROJECT_DIR$/src/oj041_2nd/FirstMissingPositive.java" />
@@ -235,6 +220,9 @@
         <option value="$PROJECT_DIR$/src/oj378KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.java" />
         <option value="$PROJECT_DIR$/src/oj137SingleNumberII/SingleNumberII.java" />
         <option value="$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java" />
+        <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java" />
       </list>
     </option>
   </component>
@@ -613,15 +601,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj035_2nd/SearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="9" selection-start-line="29" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj036_2nd/ValidSudoku.java" />
-    <entry file="file://$PROJECT_DIR$/src/oj037_2nd/SudokuSolver.java" />
     <entry file="file://$PROJECT_DIR$/src/oj038_2nd/CountAndSay.java" />
     <entry file="file://$PROJECT_DIR$/src/oj039_2nd/CombinationSum.java" />
     <entry file="file://$PROJECT_DIR$/src/oj040_2nd/CombinationSum2.java" />
@@ -885,10 +864,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
