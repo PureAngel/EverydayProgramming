@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj273IntegerToEnglishWords/IntegerToEnglishWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -129,11 +129,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerToEnglishWords.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntegerToEnglishWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj273IntegerToEnglishWords/IntegerToEnglishWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="70">
               <caret line="24" column="209" selection-start-line="24" selection-start-column="209" selection-end-line="24" selection-end-column="209" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LicenseKeyFormatting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -143,15 +152,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1365">
               <caret line="139" selection-start-line="139" selection-end-line="139" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordLadder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="74" column="72" selection-start-line="73" selection-start-column="8" selection-end-line="74" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -178,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj042_2nd/TrappingRainWater.java" />
         <option value="$PROJECT_DIR$/src/oj043_2nd/MutiplyStrings.java" />
         <option value="$PROJECT_DIR$/src/oj044_2nd/WildcardMatching.java" />
         <option value="$PROJECT_DIR$/src/oj267PalindromePermutationII/PalindromePermutationII.java" />
@@ -229,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/oj821ShortestDistanceToACharacter/ShortestDistanceToACharacter.java" />
         <option value="$PROJECT_DIR$/src/oj605CanPlaceFlowers/CanPlaceFlowers.java" />
         <option value="$PROJECT_DIR$/src/oj273IntegerToEnglishWords/IntegerToEnglishWords.java" />
+        <option value="$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java" />
       </list>
     </option>
   </component>
@@ -607,7 +607,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj041_2nd/FirstMissingPositive.java" />
     <entry file="file://$PROJECT_DIR$/src/oj042_2nd/TrappingRainWater.java" />
     <entry file="file://$PROJECT_DIR$/src/oj043_2nd/MutiplyStrings.java" />
     <entry file="file://$PROJECT_DIR$/src/oj044_2nd/WildcardMatching.java" />
@@ -911,8 +910,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj273IntegerToEnglishWords/IntegerToEnglishWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="70">
           <caret line="24" column="209" selection-start-line="24" selection-start-column="209" selection-end-line="24" selection-end-column="209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
         </state>
       </provider>
     </entry>
