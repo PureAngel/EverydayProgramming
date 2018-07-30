@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj056_2nd/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj056_2nd/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj058_2nd/LengthOfLastWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -73,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeIntervals.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeIntervals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj056_2nd/MergeIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
@@ -81,6 +80,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LengthOfLastWord.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj058_2nd/LengthOfLastWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -137,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj267PalindromePermutationII/PalindromePermutationII.java" />
         <option value="$PROJECT_DIR$/src/oj867TransposeMatrix/TransposeMatrix.java" />
         <option value="$PROJECT_DIR$/src/oj812LargestTriangleArea/LargestTriangleArea.java" />
         <option value="$PROJECT_DIR$/src/oj299BullsAndCows/BullsAndCows.java" />
@@ -188,6 +195,7 @@
         <option value="$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java" />
         <option value="$PROJECT_DIR$/src/oj056_2nd/Interval.java" />
         <option value="$PROJECT_DIR$/src/oj056_2nd/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/oj058_2nd/LengthOfLastWord.java" />
       </list>
     </option>
   </component>
@@ -237,6 +245,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj056_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj058_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -552,7 +566,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj044_2nd/WildcardMatching.java" />
     <entry file="file://$PROJECT_DIR$/src/oj267PalindromePermutationII/PalindromePermutationII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
@@ -816,6 +829,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj058_2nd/LengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
         </state>
       </provider>
     </entry>
