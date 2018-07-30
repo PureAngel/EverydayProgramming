@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj061_2nd/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oj061_2nd/RotateList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj062_2nd/UniquePaths.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,11 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RotateList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RotateList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj061_2nd/RotateList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            <state relative-caret-position="360">
+              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniquePaths.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj062_2nd/UniquePaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -164,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java" />
         <option value="$PROJECT_DIR$/src/oj557ReverseWordsInAStringIII/ReverseWordsInAStringIII.java" />
         <option value="$PROJECT_DIR$/src/oj046_2nd/Permutations.java" />
         <option value="$PROJECT_DIR$/src/oj047_2nd/PermutationsII.java" />
@@ -215,6 +221,7 @@
         <option value="$PROJECT_DIR$/src/oj059_2nd/SpiralMatrixII.java" />
         <option value="$PROJECT_DIR$/src/oj061_2nd/ListNode.java" />
         <option value="$PROJECT_DIR$/src/oj061_2nd/RotateList.java" />
+        <option value="$PROJECT_DIR$/src/oj062_2nd/UniquePaths.java" />
       </list>
     </option>
   </component>
@@ -282,6 +289,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj061_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj062_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -597,13 +610,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj299BullsAndCows/BullsAndCows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj186ReverseWordsInAStringII/ReverseWordsInAStringII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -865,8 +871,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj061_2nd/RotateList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj062_2nd/UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>
