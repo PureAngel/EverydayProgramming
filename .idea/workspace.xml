@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj063_2nd/UniquePathsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj064_2nd/MinimumPathSum.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,11 +119,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UniquePathsII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UniquePathsII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj063_2nd/UniquePathsII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
               <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumPathSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj064_2nd/MinimumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -145,15 +154,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WordLadderII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2085">
-              <caret line="139" selection-start-line="139" selection-end-line="139" />
             </state>
           </provider>
         </entry>
@@ -180,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj046_2nd/Permutations.java" />
         <option value="$PROJECT_DIR$/src/oj047_2nd/PermutationsII.java" />
         <option value="$PROJECT_DIR$/src/oj048_2nd/RotateImage.java" />
         <option value="$PROJECT_DIR$/src/oj049_2nd/GroupAnagrams.java" />
@@ -231,6 +230,7 @@
         <option value="$PROJECT_DIR$/src/oj061_2nd/RotateList.java" />
         <option value="$PROJECT_DIR$/src/oj062_2nd/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/oj063_2nd/UniquePathsII.java" />
+        <option value="$PROJECT_DIR$/src/oj064_2nd/MinimumPathSum.java" />
       </list>
     </option>
   </component>
@@ -310,6 +310,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj063_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj064_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -399,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortestDistanceToACharacter">
+  <component name="RunManager" selected="Application.MinimumPathSum">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -414,13 +420,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PowXN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj050_2nd.PowXN" />
+    <configuration name="MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj064_2nd.MinimumPathSum" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oj050_2nd.*" />
+          <option name="PATTERN" value="oj064_2nd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -543,19 +549,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.PowXN" />
       <item itemvalue="Application.WordLadder" />
       <item itemvalue="Application.WordLadderII" />
       <item itemvalue="Application.MaximumBinaryTree" />
       <item itemvalue="Application.ShortestDistanceToACharacter" />
+      <item itemvalue="Application.MinimumPathSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumPathSum" />
         <item itemvalue="Application.ShortestDistanceToACharacter" />
         <item itemvalue="Application.MaximumBinaryTree" />
         <item itemvalue="Application.WordLadderII" />
         <item itemvalue="Application.WordLadder" />
-        <item itemvalue="Application.PowXN" />
       </list>
     </recent_temporary>
   </component>
@@ -578,17 +584,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3260606" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22603719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22603719" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -597,7 +604,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -617,7 +623,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -625,13 +631,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj557ReverseWordsInAStringIII/ReverseWordsInAStringIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj046_2nd/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -895,6 +894,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj064_2nd/MinimumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
