@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj067_2nd/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj069_2nd/Sqrtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,7 +138,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddBinary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddBinary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj067_2nd/AddBinary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -146,11 +147,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthSmallestElementInASortedMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj378KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.java">
+      <file leaf-file-name="Sqrtx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj069_2nd/Sqrtx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="495">
+              <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -177,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj049_2nd/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/oj050_2nd/PowXN.java" />
         <option value="$PROJECT_DIR$/src/oj045_2nd/JumpGameII.java" />
         <option value="$PROJECT_DIR$/src/oj051_2nd/NQueens.java" />
@@ -228,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/oj064_2nd/MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/oj066_2nd/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/oj067_2nd/AddBinary.java" />
+        <option value="$PROJECT_DIR$/src/oj069_2nd/Sqrtx.java" />
       </list>
     </option>
   </component>
@@ -325,6 +326,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj067_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj069_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -640,13 +647,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj048_2nd/RotateImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj049_2nd/GroupAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -910,6 +910,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj069_2nd/Sqrtx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
     </entry>
