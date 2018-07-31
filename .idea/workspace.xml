@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj068TextJustification/TextJustification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj071SymplifyPath/SymplifyPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -135,14 +135,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextJustification.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TextJustification.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj068TextJustification/TextJustification.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="93" column="43" lean-forward="true" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
+            <state relative-caret-position="-88">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SymplifyPath.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj071SymplifyPath/SymplifyPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -169,7 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj051_2nd/NQueens.java" />
         <option value="$PROJECT_DIR$/src/oj051NQueensII/NQueensII.java" />
         <option value="$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java" />
         <option value="$PROJECT_DIR$/src/oj057InsertInterval/Interval.java" />
@@ -220,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/oj069_2nd/Sqrtx.java" />
         <option value="$PROJECT_DIR$/src/oj070_2nd/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/oj068TextJustification/TextJustification.java" />
+        <option value="$PROJECT_DIR$/src/oj071SymplifyPath/SymplifyPath.java" />
       </list>
     </option>
   </component>
@@ -341,6 +350,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj071SymplifyPath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj126WordLadderII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -431,7 +446,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumPathSum">
+  <component name="RunManager" selected="Application.SymplifyPath">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -468,13 +483,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oj127WordLadder.WordLadder" />
+    <configuration name="SymplifyPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj071SymplifyPath.SymplifyPath" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oj127WordLadder.*" />
+          <option name="PATTERN" value="oj071SymplifyPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -575,19 +590,19 @@
       <Port>5050</Port>
     </configuration>
     <list>
-      <item itemvalue="Application.WordLadder" />
       <item itemvalue="Application.WordLadderII" />
       <item itemvalue="Application.MaximumBinaryTree" />
       <item itemvalue="Application.ShortestDistanceToACharacter" />
       <item itemvalue="Application.MinimumPathSum" />
+      <item itemvalue="Application.SymplifyPath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SymplifyPath" />
         <item itemvalue="Application.MinimumPathSum" />
         <item itemvalue="Application.ShortestDistanceToACharacter" />
         <item itemvalue="Application.MaximumBinaryTree" />
         <item itemvalue="Application.WordLadderII" />
-        <item itemvalue="Application.WordLadder" />
       </list>
     </recent_temporary>
   </component>
@@ -610,17 +625,18 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3260606" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -636,7 +652,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32900944" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -649,7 +664,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj071SymplifyPath/SymplifyPath.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -657,13 +680,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj051_2nd/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj052NQueensII/NQueensII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
@@ -925,11 +941,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj068TextJustification/TextJustification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="93" column="43" lean-forward="true" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
+        <state relative-caret-position="-88">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj071SymplifyPath/SymplifyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
         </state>
       </provider>
     </entry>
