@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SetMatrixZeroes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj073_2nd/SetMatrixZeroes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SearchA2DMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj074_2nd/SearchA2DMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,11 +135,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicatesFromSortedArray2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveDuplicatesFromSortedArray2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="17" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="47" selection-end-column="17" />
+            <state relative-caret-position="621">
+              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NthDigit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -184,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/oj055_2nd/JumpGame.java" />
         <option value="$PROJECT_DIR$/src/oj447NumberOfBoomerangs/NumberOfBoomerangs.java" />
         <option value="$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
@@ -235,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/oj077_2nd/Combinations.java" />
         <option value="$PROJECT_DIR$/src/oj078_2nd/Subsets.java" />
         <option value="$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java" />
+        <option value="$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java" />
       </list>
     </option>
   </component>
@@ -632,7 +632,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -951,8 +950,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="17" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="47" selection-end-column="17" />
+        <state relative-caret-position="621">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
         </state>
       </provider>
     </entry>
