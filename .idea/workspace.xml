@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj077_2nd/Combinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj078_2nd/Subsets.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,15 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntegerToEnglishWords.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj273IntegerToEnglishWords/IntegerToEnglishWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="209" selection-start-line="24" selection-start-column="209" selection-end-line="24" selection-end-column="209" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LicenseKeyFormatting.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -138,11 +128,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj077_2nd/Combinations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj078_2nd/Subsets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj796RotateString/RotateString.java" />
         <option value="$PROJECT_DIR$/src/oj599MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java" />
         <option value="$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/oj055_2nd/JumpGame.java" />
@@ -232,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/oj653TwoSumIV_InputIsABST/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj653TwoSumIV_InputIsABST/TwoSumIV_InputIsABST.java" />
         <option value="$PROJECT_DIR$/src/oj077_2nd/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/oj078_2nd/Subsets.java" />
       </list>
     </option>
   </component>
@@ -623,7 +625,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj055_2nd/JumpGame.java" />
     <entry file="file://$PROJECT_DIR$/src/oj447NumberOfBoomerangs/NumberOfBoomerangs.java" />
     <entry file="file://$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
@@ -926,6 +927,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj078_2nd/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
