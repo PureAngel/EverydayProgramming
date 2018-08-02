@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj078_2nd/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LicenseKeyFormatting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj482LicenseKeyFormatting/LicenseKeyFormatting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SetMatrixZeroes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj073_2nd/SetMatrixZeroes.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -140,14 +132,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Subsets.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj078_2nd/Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+            <state relative-caret-position="600">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesFromSortedArray2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="17" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="47" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -183,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj599MinimumIndexSumOfTwoLists/MinimumIndexSumOfTwoLists.java" />
         <option value="$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/oj055_2nd/JumpGame.java" />
         <option value="$PROJECT_DIR$/src/oj447NumberOfBoomerangs/NumberOfBoomerangs.java" />
@@ -234,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/oj653TwoSumIV_InputIsABST/TwoSumIV_InputIsABST.java" />
         <option value="$PROJECT_DIR$/src/oj077_2nd/Combinations.java" />
         <option value="$PROJECT_DIR$/src/oj078_2nd/Subsets.java" />
+        <option value="$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java" />
       </list>
     </option>
   </component>
@@ -284,6 +285,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj077_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj080_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -625,7 +632,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj447NumberOfBoomerangs/NumberOfBoomerangs.java" />
     <entry file="file://$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
     <entry file="file://$PROJECT_DIR$/src/oj127WordLadder/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -935,11 +941,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj078_2nd/Subsets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        <state relative-caret-position="600">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="47" selection-end-column="17" />
         </state>
       </provider>
     </entry>
