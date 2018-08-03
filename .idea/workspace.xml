@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj087ScrambleString/ScrambleString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,15 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortColors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj075_2nd/SortColors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="9" selection-start-line="22" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MiddleOfTheLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj876MiddleOfTheLinkedList/MiddleOfTheLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,11 +134,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScrambleString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScrambleString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj087ScrambleString/ScrambleString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="590">
               <caret line="67" column="28" lean-forward="true" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -189,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java" />
         <option value="$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java" />
         <option value="$PROJECT_DIR$/src/oj135Candy/Candy.java" />
-        <option value="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" />
         <option value="$PROJECT_DIR$/src/oj084LargestRectangleInHistogram/LargestRectangleInHistogram.java" />
         <option value="$PROJECT_DIR$/src/oj140WordBreakII/WordBreakII.java" />
         <option value="$PROJECT_DIR$/src/oj709ToLowerCase/ToLowerCase.java" />
@@ -235,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java" />
         <option value="$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java" />
         <option value="$PROJECT_DIR$/src/oj087ScrambleString/ScrambleString.java" />
+        <option value="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" />
       </list>
     </option>
   </component>
@@ -641,7 +640,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java" />
     <entry file="file://$PROJECT_DIR$/src/oj135Candy/Candy.java" />
-    <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" />
     <entry file="file://$PROJECT_DIR$/src/oj053_2nd/MaximumSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -959,6 +957,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="67" column="28" lean-forward="true" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
         </state>
       </provider>
     </entry>
