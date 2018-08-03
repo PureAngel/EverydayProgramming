@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj086_2nd/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj086_2nd/PartitionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,15 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MiddleOfTheLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj876MiddleOfTheLinkedList/MiddleOfTheLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="QuadTreeIntersection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj558QuadTreeIntersection/QuadTreeIntersection.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,20 +136,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="261">
+              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj558QuadTreeIntersection/Node.java">
+      <file leaf-file-name="PartitionList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj086_2nd/PartitionList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="465">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -183,8 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj447NumberOfBoomerangs/NumberOfBoomerangs.java" />
-        <option value="$PROJECT_DIR$/src/oj356LineReflection/LineReflection.java" />
         <option value="$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java" />
         <option value="$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java" />
         <option value="$PROJECT_DIR$/src/oj135Candy/Candy.java" />
@@ -234,6 +225,8 @@
         <option value="$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java" />
         <option value="$PROJECT_DIR$/src/oj087ScrambleString/ScrambleString.java" />
         <option value="$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/oj086_2nd/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/oj086_2nd/PartitionList.java" />
       </list>
     </option>
   </component>
@@ -290,6 +283,12 @@
               <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oj080_2nd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EverydayProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oj086_2nd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -631,14 +630,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj126WordLadderII/WordLadderII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2085">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj132PalindromePartitioningII/PalindromePartitioningII.java" />
     <entry file="file://$PROJECT_DIR$/src/oj135Candy/Candy.java" />
     <entry file="file://$PROJECT_DIR$/src/oj053_2nd/MaximumSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -962,8 +953,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state relative-caret-position="261">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj086_2nd/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj086_2nd/PartitionList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
