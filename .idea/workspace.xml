@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj830PositionsOfLargeGroups/PositionsOfLargeGroups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,15 +62,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveDuplicatesFromSortedArray2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj080_2nd/RemoveDuplicatesFromSortedArray2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NthDigit.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj400NthDigit/NthDigit.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -150,14 +140,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PositionsOfLargeGroups.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PositionsOfLargeGroups.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj830PositionsOfLargeGroups/PositionsOfLargeGroups.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
-              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+              <caret line="43" column="64" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOfSegmentsInAString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -184,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj654MaximumBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj654MaximumBinaryTree/MaximumBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj378KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.java" />
         <option value="$PROJECT_DIR$/src/oj137SingleNumberII/SingleNumberII.java" />
@@ -235,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/oj700SearchInABinarySearchTree/SearchInABinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/oj819MostCommonWord/MostCommonWord.java" />
         <option value="$PROJECT_DIR$/src/oj830PositionsOfLargeGroups/PositionsOfLargeGroups.java" />
+        <option value="$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java" />
       </list>
     </option>
   </component>
@@ -595,12 +594,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3254717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3254717" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22847222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22847222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
@@ -644,13 +643,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj654MaximumBinaryTree/MaximumBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oj137SingleNumberII/SingleNumberII.java" />
     <entry file="file://$PROJECT_DIR$/src/oj378KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -979,10 +971,17 @@
     <entry file="file://$PROJECT_DIR$/src/oj830PositionsOfLargeGroups/PositionsOfLargeGroups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
-          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
