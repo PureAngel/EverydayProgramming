@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj840MagicSquaresInGrid/MagicSquaresInGrid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PartitionList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj086_2nd/PartitionList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,11 +147,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumOfSquareNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumOfSquareNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="255">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MagicSquaresInGrid.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj840MagicSquaresInGrid/MagicSquaresInGrid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -187,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java" />
         <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/oj832FlippingAnImage/FlippingAnImage.java" />
@@ -238,6 +237,7 @@
         <option value="$PROJECT_DIR$/src/oj443StringCompression/StringCompression.java" />
         <option value="$PROJECT_DIR$/src/oj438FindAllAnagramsInAString/FindAllAnagramsInAString.java" />
         <option value="$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java" />
+        <option value="$PROJECT_DIR$/src/oj840MagicSquaresInGrid/MagicSquaresInGrid.java" />
       </list>
     </option>
   </component>
@@ -647,7 +647,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java" />
     <entry file="file://$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -993,8 +992,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj840MagicSquaresInGrid/MagicSquaresInGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
         </state>
       </provider>
     </entry>
