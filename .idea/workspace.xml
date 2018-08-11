@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="995b7430-4db2-4024-b3f8-d6171f90d969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oj438FindAllAnagramsInAString/FindAllAnagramsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ScrambleString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oj087ScrambleString/ScrambleString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MaximalRectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj085MaximalRectangle/MaximalRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -135,7 +126,7 @@
       <file leaf-file-name="PositionsOfLargeGroups.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj830PositionsOfLargeGroups/PositionsOfLargeGroups.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
+            <state relative-caret-position="630">
               <caret line="43" column="64" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -148,19 +139,28 @@
         <entry file="file://$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindAllAnagramsInAString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindAllAnagramsInAString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/oj438FindAllAnagramsInAString/FindAllAnagramsInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="516">
               <caret line="47" column="79" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumOfSquareNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -187,7 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/oj137SingleNumberII/SingleNumberII.java" />
         <option value="$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java" />
         <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java" />
@@ -238,6 +237,7 @@
         <option value="$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java" />
         <option value="$PROJECT_DIR$/src/oj443StringCompression/StringCompression.java" />
         <option value="$PROJECT_DIR$/src/oj438FindAllAnagramsInAString/FindAllAnagramsInAString.java" />
+        <option value="$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java" />
       </list>
     </option>
   </component>
@@ -270,7 +270,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -379,6 +378,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -592,13 +592,12 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
       <window_info id="Palette&#9;" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.3278302" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.3254717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.3254717" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
@@ -619,6 +618,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32900944" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32900944" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -647,7 +647,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/TreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/oj662MaximumWidthOfBinaryTree/MaximumWidthOfBinaryTree.java" />
     <entry file="file://$PROJECT_DIR$/src/oj661ImageSmoother/ImageSmoother.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -966,7 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj830PositionsOfLargeGroups/PositionsOfLargeGroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="630">
           <caret line="43" column="64" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -974,27 +973,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oj443StringCompression/StringCompression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj443StringCompression/StringCompression.java" />
     <entry file="file://$PROJECT_DIR$/src/oj434NumberOfSegmentsInAString/NumberOfSegmentsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oj438FindAllAnagramsInAString/FindAllAnagramsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
+        <state relative-caret-position="516">
           <caret line="47" column="79" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj633SumOfSquareNumbers/SumOfSquareNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
